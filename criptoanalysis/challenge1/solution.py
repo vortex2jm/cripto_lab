@@ -1,29 +1,18 @@
-def genkey(length: int) -> bytes:
-    return str.encode(''.join([chr(ord('A'))*length]))
+CIPHER = b'rDFTS@OB@\x01DL\x01bNLQTU@B@N\x01\x13\x11\x13\x15\x0e\x10'
+
+# Criando nova função para gerar chaves de 8-bits concatenadas
+def new_gen_key(length: int, seed: int) -> bytes:
+  return str.encode(''.join([chr(seed)*length]))
 
 def main():
-  cipher = b'rDFTS@OB@\x01DL\x01bNLQTU@B@N\x01\x13\x11\x13\x15\x0e\x10'    
-  key = genkey(len(cipher))
-
-  # Método 1=============================#
-  print('\nMÉTODO 1\n')
-  text = bytes([a ^ b for a, b in zip(cipher, key)])
-  # bytes
-  print(text)
-  # hexadecimal
-  print(text.hex())
-  # utf-8
-  print(text.decode())
-
-  # Método 2=============================#
-  r= []
-  for x in range(len(cipher)):
-    r.append(chr(int(cipher[x]) ^ int(key[x])))
-  r = ''.join(r)
-  print('\nMÉTODO 2\n')
-  print(r)
+  # Testando todas as possíveis chaves de 8-bits
+  for x in range(256):
+    key = new_gen_key(len(CIPHER), x)
+    text = bytes([a ^ b for a, b in zip(CIPHER, key)])
+    xbin = bin(x)[2:].zfill(8)
+    print(f'DecKey: {x}; BinKey: {xbin}; HexKey: {hex(x)}; Text: {text}')
 
 if __name__ == '__main__':
    main()
 
-# O operador ^ (XOR) só funciona em inteiros.
+#A mensagem descriptografada é: 'Seguranca em Computacao 2024/1' e a chave de 8 bits é 0x21
