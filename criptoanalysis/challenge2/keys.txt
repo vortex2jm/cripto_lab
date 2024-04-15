@@ -1,0 +1,1024 @@
+CharKey: @@; BinKey: 0100000001000000;                HexKey: 4040; Text: Rgfwscoa`"do!Anoqwucbcn"3236.3
+CharKey: @A; BinKey: 0100000001000001;                HexKey: 4041; Text: Rffvsbo``#dn!@nnqvubbbn#3337.2
+CharKey: @B; BinKey: 0100000001000010;                HexKey: 4042; Text: Refusaoc` dm!Cnmquuaban 3034.1
+CharKey: @C; BinKey: 0100000001000011;                HexKey: 4043; Text: Rdfts`ob`!dl!Bnlqtu`b`n!3135.0
+CharKey: @D; BinKey: 0100000001000100;                HexKey: 4044; Text: Rcfssgoe`&dk!Enkqsugbgn&3632.7
+CharKey: @E; BinKey: 0100000001000101;                HexKey: 4045; Text: Rbfrsfod`'dj!Dnjqrufbfn'3733.6
+CharKey: @F; BinKey: 0100000001000110;                HexKey: 4046; Text: Rafqseog`$di!Gniqqueben$3430.5
+CharKey: @G; BinKey: 0100000001000111;                HexKey: 4047; Text: R`fpsdof`%dh!Fnhqpudbdn%3531.4
+CharKey: @H; BinKey: 0100000001001000;                HexKey: 4048; Text: Rofskoi`*dg!Ingqukbkn*3:3>.;
+CharKey: @I; BinKey: 0100000001001001;                HexKey: 4049; Text: Rnf~sjoh`+df!Hnfq~ujbjn+3;3?.:
+CharKey: @J; BinKey: 0100000001001010;                HexKey: 404a; Text: Rmf}siok`(de!Kneq}uibin(383<.9
+CharKey: @K; BinKey: 0100000001001011;                HexKey: 404b; Text: Rlf|shoj`)dd!Jndq|uhbhn)393=.8
+CharKey: @L; BinKey: 0100000001001100;                HexKey: 404c; Text: Rkf{soom`.dc!Mncq{uobon.3>3:.?
+CharKey: @M; BinKey: 0100000001001101;                HexKey: 404d; Text: Rjfzsnol`/db!Lnbqzunbnn/3?3;.>
+CharKey: @N; BinKey: 0100000001001110;                HexKey: 404e; Text: Rifysmoo`,da!Onaqyumbmn,3<38.=
+CharKey: @O; BinKey: 0100000001001111;                HexKey: 404f; Text: Rhfxslon`-d`!Nn`qxulbln-3=39.<
+CharKey: @P; BinKey: 0100000001010000;                HexKey: 4050; Text: Rwfgssoq`2d!Qnqgusbsn23"3&.#
+CharKey: @Q; BinKey: 0100000001010001;                HexKey: 4051; Text: Rvffsrop`3d~!Pn~qfurbrn33#3'."
+CharKey: @R; BinKey: 0100000001010010;                HexKey: 4052; Text: Rufesqos`0d}!Sn}qeuqbqn03 3$.!
+CharKey: @S; BinKey: 0100000001010011;                HexKey: 4053; Text: Rtfdspor`1d|!Rn|qdupbpn13!3%. 
+CharKey: @T; BinKey: 0100000001010100;                HexKey: 4054; Text: Rsfcswou`6d{!Un{qcuwbwn63&3".'
+CharKey: @U; BinKey: 0100000001010101;                HexKey: 4055; Text: Rrfbsvot`7dz!Tnzqbuvbvn73'3#.&
+CharKey: @V; BinKey: 0100000001010110;                HexKey: 4056; Text: Rqfasuow`4dy!Wnyqauubun43$3 .%
+CharKey: @W; BinKey: 0100000001010111;                HexKey: 4057; Text: Rpf`stov`5dx!Vnxq`utbtn53%3!.$
+CharKey: @X; BinKey: 0100000001011000;                HexKey: 4058; Text: Rfos{oy`:dw!Ynwqou{b{n:3*3..+
+CharKey: @Y; BinKey: 0100000001011001;                HexKey: 4059; Text: R~fnszox`;dv!Xnvqnuzbzn;3+3/.*
+CharKey: @Z; BinKey: 0100000001011010;                HexKey: 405a; Text: R}fmsyo{`8du![nuqmuybyn83(3,.)
+CharKey: @[; BinKey: 0100000001011011;                HexKey: 405b; Text: R|flsxoz`9dt!Zntqluxbxn93)3-.(
+CharKey: @\; BinKey: 0100000001011100;                HexKey: 405c; Text: R{fkso}`>ds!]nsqkubn>3.3*./
+CharKey: @]; BinKey: 0100000001011101;                HexKey: 405d; Text: Rzfjs~o|`?dr!\nrqju~b~n?3/3+..
+CharKey: @^; BinKey: 0100000001011110;                HexKey: 405e; Text: Ryfis}o`<dq!_nqqiu}b}n<3,3(.-
+CharKey: @_; BinKey: 0100000001011111;                HexKey: 405f; Text: Rxfhs|o~`=dp!^npqhu|b|n=3-3).,
+CharKey: A@; BinKey: 0100000101000000;                HexKey: 4140; Text: Sggwrcnaa"eo Aoopwtccco"2226/3
+CharKey: AA; BinKey: 0100000101000001;                HexKey: 4141; Text: Sfgvrbn`a#en @onpvtbcbo#2327/2
+CharKey: AB; BinKey: 0100000101000010;                HexKey: 4142; Text: Seguranca em Computacao 2024/1
+CharKey: AC; BinKey: 0100000101000011;                HexKey: 4143; Text: Sdgtr`nba!el Bolptt`c`o!2125/0
+CharKey: AD; BinKey: 0100000101000100;                HexKey: 4144; Text: Scgsrgnea&ek Eokpstgcgo&2622/7
+CharKey: AE; BinKey: 0100000101000101;                HexKey: 4145; Text: Sbgrrfnda'ej Dojprtfcfo'2723/6
+CharKey: AF; BinKey: 0100000101000110;                HexKey: 4146; Text: Sagqrenga$ei Goipqteceo$2420/5
+CharKey: AG; BinKey: 0100000101000111;                HexKey: 4147; Text: S`gprdnfa%eh Fohpptdcdo%2521/4
+CharKey: AH; BinKey: 0100000101001000;                HexKey: 4148; Text: Sogrknia*eg Iogptkcko*2:2>/;
+CharKey: AI; BinKey: 0100000101001001;                HexKey: 4149; Text: Sng~rjnha+ef Hofp~tjcjo+2;2?/:
+CharKey: AJ; BinKey: 0100000101001010;                HexKey: 414a; Text: Smg}rinka(ee Koep}ticio(282</9
+CharKey: AK; BinKey: 0100000101001011;                HexKey: 414b; Text: Slg|rhnja)ed Jodp|thcho)292=/8
+CharKey: AL; BinKey: 0100000101001100;                HexKey: 414c; Text: Skg{ronma.ec Mocp{tocoo.2>2:/?
+CharKey: AM; BinKey: 0100000101001101;                HexKey: 414d; Text: Sjgzrnnla/eb Lobpztncno/2?2;/>
+CharKey: AN; BinKey: 0100000101001110;                HexKey: 414e; Text: Sigyrmnoa,ea Ooapytmcmo,2<28/=
+CharKey: AO; BinKey: 0100000101001111;                HexKey: 414f; Text: Shgxrlnna-e` No`pxtlclo-2=29/<
+CharKey: AP; BinKey: 0100000101010000;                HexKey: 4150; Text: Swggrsnqa2e Qopgtscso22"2&/#
+CharKey: AQ; BinKey: 0100000101010001;                HexKey: 4151; Text: Svgfrrnpa3e~ Po~pftrcro32#2'/"
+CharKey: AR; BinKey: 0100000101010010;                HexKey: 4152; Text: Sugerqnsa0e} So}petqcqo02 2$/!
+CharKey: AS; BinKey: 0100000101010011;                HexKey: 4153; Text: Stgdrpnra1e| Ro|pdtpcpo12!2%/ 
+CharKey: AT; BinKey: 0100000101010100;                HexKey: 4154; Text: Ssgcrwnua6e{ Uo{pctwcwo62&2"/'
+CharKey: AU; BinKey: 0100000101010101;                HexKey: 4155; Text: Srgbrvnta7ez Tozpbtvcvo72'2#/&
+CharKey: AV; BinKey: 0100000101010110;                HexKey: 4156; Text: Sqgarunwa4ey Woypatucuo42$2 /%
+CharKey: AW; BinKey: 0100000101010111;                HexKey: 4157; Text: Spg`rtnva5ex Voxp`ttcto52%2!/$
+CharKey: AX; BinKey: 0100000101011000;                HexKey: 4158; Text: Sgor{nya:ew Yowpot{c{o:2*2./+
+CharKey: AY; BinKey: 0100000101011001;                HexKey: 4159; Text: S~gnrznxa;ev Xovpntzczo;2+2//*
+CharKey: AZ; BinKey: 0100000101011010;                HexKey: 415a; Text: S}gmryn{a8eu [oupmtycyo82(2,/)
+CharKey: A[; BinKey: 0100000101011011;                HexKey: 415b; Text: S|glrxnza9et Zotpltxcxo92)2-/(
+CharKey: A\; BinKey: 0100000101011100;                HexKey: 415c; Text: S{gkrn}a>es ]ospktco>2.2*//
+CharKey: A]; BinKey: 0100000101011101;                HexKey: 415d; Text: Szgjr~n|a?er \orpjt~c~o?2/2+/.
+CharKey: A^; BinKey: 0100000101011110;                HexKey: 415e; Text: Sygir}na<eq _oqpit}c}o<2,2(/-
+CharKey: A_; BinKey: 0100000101011111;                HexKey: 415f; Text: Sxghr|n~a=ep ^oppht|c|o=2-2)/,
+CharKey: B@; BinKey: 0100001001000000;                HexKey: 4240; Text: Pgdwqcmab"fo#Aloswwc`cl"1216,3
+CharKey: BA; BinKey: 0100001001000001;                HexKey: 4241; Text: Pfdvqbm`b#fn#@lnsvwb`bl#1317,2
+CharKey: BB; BinKey: 0100001001000010;                HexKey: 4242; Text: Peduqamcb fm#Clmsuwa`al 1014,1
+CharKey: BC; BinKey: 0100001001000011;                HexKey: 4243; Text: Pddtq`mbb!fl#Bllstw```l!1115,0
+CharKey: BD; BinKey: 0100001001000100;                HexKey: 4244; Text: Pcdsqgmeb&fk#Elksswg`gl&1612,7
+CharKey: BE; BinKey: 0100001001000101;                HexKey: 4245; Text: Pbdrqfmdb'fj#Dljsrwf`fl'1713,6
+CharKey: BF; BinKey: 0100001001000110;                HexKey: 4246; Text: Padqqemgb$fi#Glisqwe`el$1410,5
+CharKey: BG; BinKey: 0100001001000111;                HexKey: 4247; Text: P`dpqdmfb%fh#Flhspwd`dl%1511,4
+CharKey: BH; BinKey: 0100001001001000;                HexKey: 4248; Text: Podqkmib*fg#Ilgswk`kl*1:1>,;
+CharKey: BI; BinKey: 0100001001001001;                HexKey: 4249; Text: Pnd~qjmhb+ff#Hlfs~wj`jl+1;1?,:
+CharKey: BJ; BinKey: 0100001001001010;                HexKey: 424a; Text: Pmd}qimkb(fe#Kles}wi`il(181<,9
+CharKey: BK; BinKey: 0100001001001011;                HexKey: 424b; Text: Pld|qhmjb)fd#Jlds|wh`hl)191=,8
+CharKey: BL; BinKey: 0100001001001100;                HexKey: 424c; Text: Pkd{qommb.fc#Mlcs{wo`ol.1>1:,?
+CharKey: BM; BinKey: 0100001001001101;                HexKey: 424d; Text: Pjdzqnmlb/fb#Llbszwn`nl/1?1;,>
+CharKey: BN; BinKey: 0100001001001110;                HexKey: 424e; Text: Pidyqmmob,fa#Olasywm`ml,1<18,=
+CharKey: BO; BinKey: 0100001001001111;                HexKey: 424f; Text: Phdxqlmnb-f`#Nl`sxwl`ll-1=19,<
+CharKey: BP; BinKey: 0100001001010000;                HexKey: 4250; Text: Pwdgqsmqb2f#Qlsgws`sl21"1&,#
+CharKey: BQ; BinKey: 0100001001010001;                HexKey: 4251; Text: Pvdfqrmpb3f~#Pl~sfwr`rl31#1',"
+CharKey: BR; BinKey: 0100001001010010;                HexKey: 4252; Text: Pudeqqmsb0f}#Sl}sewq`ql01 1$,!
+CharKey: BS; BinKey: 0100001001010011;                HexKey: 4253; Text: Ptddqpmrb1f|#Rl|sdwp`pl11!1%, 
+CharKey: BT; BinKey: 0100001001010100;                HexKey: 4254; Text: Psdcqwmub6f{#Ul{scww`wl61&1",'
+CharKey: BU; BinKey: 0100001001010101;                HexKey: 4255; Text: Prdbqvmtb7fz#Tlzsbwv`vl71'1#,&
+CharKey: BV; BinKey: 0100001001010110;                HexKey: 4256; Text: Pqdaqumwb4fy#Wlysawu`ul41$1 ,%
+CharKey: BW; BinKey: 0100001001010111;                HexKey: 4257; Text: Ppd`qtmvb5fx#Vlxs`wt`tl51%1!,$
+CharKey: BX; BinKey: 0100001001011000;                HexKey: 4258; Text: Pdoq{myb:fw#Ylwsow{`{l:1*1.,+
+CharKey: BY; BinKey: 0100001001011001;                HexKey: 4259; Text: P~dnqzmxb;fv#Xlvsnwz`zl;1+1/,*
+CharKey: BZ; BinKey: 0100001001011010;                HexKey: 425a; Text: P}dmqym{b8fu#[lusmwy`yl81(1,,)
+CharKey: B[; BinKey: 0100001001011011;                HexKey: 425b; Text: P|dlqxmzb9ft#Zltslwx`xl91)1-,(
+CharKey: B\; BinKey: 0100001001011100;                HexKey: 425c; Text: P{dkqm}b>fs#]lsskw`l>1.1*,/
+CharKey: B]; BinKey: 0100001001011101;                HexKey: 425d; Text: Pzdjq~m|b?fr#\lrsjw~`~l?1/1+,.
+CharKey: B^; BinKey: 0100001001011110;                HexKey: 425e; Text: Pydiq}mb<fq#_lqsiw}`}l<1,1(,-
+CharKey: B_; BinKey: 0100001001011111;                HexKey: 425f; Text: Pxdhq|m~b=fp#^lpshw|`|l=1-1),,
+CharKey: C@; BinKey: 0100001101000000;                HexKey: 4340; Text: Qgewpclac"go"Amorwvcacm"0206-3
+CharKey: CA; BinKey: 0100001101000001;                HexKey: 4341; Text: Qfevpbl`c#gn"@mnrvvbabm#0307-2
+CharKey: CB; BinKey: 0100001101000010;                HexKey: 4342; Text: Qeeupalcc gm"Cmmruvaaam 0004-1
+CharKey: CC; BinKey: 0100001101000011;                HexKey: 4343; Text: Qdetp`lbc!gl"Bmlrtv`a`m!0105-0
+CharKey: CD; BinKey: 0100001101000100;                HexKey: 4344; Text: Qcespglec&gk"Emkrsvgagm&0602-7
+CharKey: CE; BinKey: 0100001101000101;                HexKey: 4345; Text: Qberpfldc'gj"Dmjrrvfafm'0703-6
+CharKey: CF; BinKey: 0100001101000110;                HexKey: 4346; Text: Qaeqpelgc$gi"Gmirqveaem$0400-5
+CharKey: CG; BinKey: 0100001101000111;                HexKey: 4347; Text: Q`eppdlfc%gh"Fmhrpvdadm%0501-4
+CharKey: CH; BinKey: 0100001101001000;                HexKey: 4348; Text: Qoepklic*gg"Imgrvkakm*0:0>-;
+CharKey: CI; BinKey: 0100001101001001;                HexKey: 4349; Text: Qne~pjlhc+gf"Hmfr~vjajm+0;0?-:
+CharKey: CJ; BinKey: 0100001101001010;                HexKey: 434a; Text: Qme}pilkc(ge"Kmer}viaim(080<-9
+CharKey: CK; BinKey: 0100001101001011;                HexKey: 434b; Text: Qle|phljc)gd"Jmdr|vhahm)090=-8
+CharKey: CL; BinKey: 0100001101001100;                HexKey: 434c; Text: Qke{polmc.gc"Mmcr{voaom.0>0:-?
+CharKey: CM; BinKey: 0100001101001101;                HexKey: 434d; Text: Qjezpnllc/gb"Lmbrzvnanm/0?0;->
+CharKey: CN; BinKey: 0100001101001110;                HexKey: 434e; Text: Qieypmloc,ga"Omaryvmamm,0<08-=
+CharKey: CO; BinKey: 0100001101001111;                HexKey: 434f; Text: Qhexpllnc-g`"Nm`rxvlalm-0=09-<
+CharKey: CP; BinKey: 0100001101010000;                HexKey: 4350; Text: Qwegpslqc2g"Qmrgvsasm20"0&-#
+CharKey: CQ; BinKey: 0100001101010001;                HexKey: 4351; Text: Qvefprlpc3g~"Pm~rfvrarm30#0'-"
+CharKey: CR; BinKey: 0100001101010010;                HexKey: 4352; Text: Queepqlsc0g}"Sm}revqaqm00 0$-!
+CharKey: CS; BinKey: 0100001101010011;                HexKey: 4353; Text: Qtedpplrc1g|"Rm|rdvpapm10!0%- 
+CharKey: CT; BinKey: 0100001101010100;                HexKey: 4354; Text: Qsecpwluc6g{"Um{rcvwawm60&0"-'
+CharKey: CU; BinKey: 0100001101010101;                HexKey: 4355; Text: Qrebpvltc7gz"Tmzrbvvavm70'0#-&
+CharKey: CV; BinKey: 0100001101010110;                HexKey: 4356; Text: Qqeapulwc4gy"Wmyravuaum40$0 -%
+CharKey: CW; BinKey: 0100001101010111;                HexKey: 4357; Text: Qpe`ptlvc5gx"Vmxr`vtatm50%0!-$
+CharKey: CX; BinKey: 0100001101011000;                HexKey: 4358; Text: Qeop{lyc:gw"Ymwrov{a{m:0*0.-+
+CharKey: CY; BinKey: 0100001101011001;                HexKey: 4359; Text: Q~enpzlxc;gv"Xmvrnvzazm;0+0/-*
+CharKey: CZ; BinKey: 0100001101011010;                HexKey: 435a; Text: Q}empyl{c8gu"[murmvyaym80(0,-)
+CharKey: C[; BinKey: 0100001101011011;                HexKey: 435b; Text: Q|elpxlzc9gt"Zmtrlvxaxm90)0--(
+CharKey: C\; BinKey: 0100001101011100;                HexKey: 435c; Text: Q{ekpl}c>gs"]msrkvam>0.0*-/
+CharKey: C]; BinKey: 0100001101011101;                HexKey: 435d; Text: Qzejp~l|c?gr"\mrrjv~a~m?0/0+-.
+CharKey: C^; BinKey: 0100001101011110;                HexKey: 435e; Text: Qyeip}lc<gq"_mqriv}a}m<0,0(--
+CharKey: C_; BinKey: 0100001101011111;                HexKey: 435f; Text: Qxehp|l~c=gp"^mprhv|a|m=0-0)-,
+CharKey: D@; BinKey: 0100010001000000;                HexKey: 4440; Text: Vgbwwckad"`o%Ajouwqcfcj"7276*3
+CharKey: DA; BinKey: 0100010001000001;                HexKey: 4441; Text: Vfbvwbk`d#`n%@jnuvqbfbj#7377*2
+CharKey: DB; BinKey: 0100010001000010;                HexKey: 4442; Text: Vebuwakcd `m%Cjmuuqafaj 7074*1
+CharKey: DC; BinKey: 0100010001000011;                HexKey: 4443; Text: Vdbtw`kbd!`l%Bjlutq`f`j!7175*0
+CharKey: DD; BinKey: 0100010001000100;                HexKey: 4444; Text: Vcbswgked&`k%Ejkusqgfgj&7672*7
+CharKey: DE; BinKey: 0100010001000101;                HexKey: 4445; Text: Vbbrwfkdd'`j%Djjurqfffj'7773*6
+CharKey: DF; BinKey: 0100010001000110;                HexKey: 4446; Text: Vabqwekgd$`i%Gjiuqqefej$7470*5
+CharKey: DG; BinKey: 0100010001000111;                HexKey: 4447; Text: V`bpwdkfd%`h%Fjhupqdfdj%7571*4
+CharKey: DH; BinKey: 0100010001001000;                HexKey: 4448; Text: Vobwkkid*`g%Ijguqkfkj*7:7>*;
+CharKey: DI; BinKey: 0100010001001001;                HexKey: 4449; Text: Vnb~wjkhd+`f%Hjfu~qjfjj+7;7?*:
+CharKey: DJ; BinKey: 0100010001001010;                HexKey: 444a; Text: Vmb}wikkd(`e%Kjeu}qifij(787<*9
+CharKey: DK; BinKey: 0100010001001011;                HexKey: 444b; Text: Vlb|whkjd)`d%Jjdu|qhfhj)797=*8
+CharKey: DL; BinKey: 0100010001001100;                HexKey: 444c; Text: Vkb{wokmd.`c%Mjcu{qofoj.7>7:*?
+CharKey: DM; BinKey: 0100010001001101;                HexKey: 444d; Text: Vjbzwnkld/`b%Ljbuzqnfnj/7?7;*>
+CharKey: DN; BinKey: 0100010001001110;                HexKey: 444e; Text: Vibywmkod,`a%Ojauyqmfmj,7<78*=
+CharKey: DO; BinKey: 0100010001001111;                HexKey: 444f; Text: Vhbxwlknd-``%Nj`uxqlflj-7=79*<
+CharKey: DP; BinKey: 0100010001010000;                HexKey: 4450; Text: Vwbgwskqd2`%Qjugqsfsj27"7&*#
+CharKey: DQ; BinKey: 0100010001010001;                HexKey: 4451; Text: Vvbfwrkpd3`~%Pj~ufqrfrj37#7'*"
+CharKey: DR; BinKey: 0100010001010010;                HexKey: 4452; Text: Vubewqksd0`}%Sj}ueqqfqj07 7$*!
+CharKey: DS; BinKey: 0100010001010011;                HexKey: 4453; Text: Vtbdwpkrd1`|%Rj|udqpfpj17!7%* 
+CharKey: DT; BinKey: 0100010001010100;                HexKey: 4454; Text: Vsbcwwkud6`{%Uj{ucqwfwj67&7"*'
+CharKey: DU; BinKey: 0100010001010101;                HexKey: 4455; Text: Vrbbwvktd7`z%Tjzubqvfvj77'7#*&
+CharKey: DV; BinKey: 0100010001010110;                HexKey: 4456; Text: Vqbawukwd4`y%Wjyuaqufuj47$7 *%
+CharKey: DW; BinKey: 0100010001010111;                HexKey: 4457; Text: Vpb`wtkvd5`x%Vjxu`qtftj57%7!*$
+CharKey: DX; BinKey: 0100010001011000;                HexKey: 4458; Text: Vbow{kyd:`w%Yjwuoq{f{j:7*7.*+
+CharKey: DY; BinKey: 0100010001011001;                HexKey: 4459; Text: V~bnwzkxd;`v%Xjvunqzfzj;7+7/**
+CharKey: DZ; BinKey: 0100010001011010;                HexKey: 445a; Text: V}bmwyk{d8`u%[juumqyfyj87(7,*)
+CharKey: D[; BinKey: 0100010001011011;                HexKey: 445b; Text: V|blwxkzd9`t%Zjtulqxfxj97)7-*(
+CharKey: D\; BinKey: 0100010001011100;                HexKey: 445c; Text: V{bkwk}d>`s%]jsukqfj>7.7**/
+CharKey: D]; BinKey: 0100010001011101;                HexKey: 445d; Text: Vzbjw~k|d?`r%\jrujq~f~j?7/7+*.
+CharKey: D^; BinKey: 0100010001011110;                HexKey: 445e; Text: Vybiw}kd<`q%_jquiq}f}j<7,7(*-
+CharKey: D_; BinKey: 0100010001011111;                HexKey: 445f; Text: Vxbhw|k~d=`p%^jpuhq|f|j=7-7)*,
+CharKey: E@; BinKey: 0100010101000000;                HexKey: 4540; Text: Wgcwvcjae"ao$Akotwpcgck"6266+3
+CharKey: EA; BinKey: 0100010101000001;                HexKey: 4541; Text: Wfcvvbj`e#an$@kntvpbgbk#6367+2
+CharKey: EB; BinKey: 0100010101000010;                HexKey: 4542; Text: Wecuvajce am$Ckmtupagak 6064+1
+CharKey: EC; BinKey: 0100010101000011;                HexKey: 4543; Text: Wdctv`jbe!al$Bklttp`g`k!6165+0
+CharKey: ED; BinKey: 0100010101000100;                HexKey: 4544; Text: Wccsvgjee&ak$Ekktspgggk&6662+7
+CharKey: EE; BinKey: 0100010101000101;                HexKey: 4545; Text: Wbcrvfjde'aj$Dkjtrpfgfk'6763+6
+CharKey: EF; BinKey: 0100010101000110;                HexKey: 4546; Text: Wacqvejge$ai$Gkitqpegek$6460+5
+CharKey: EG; BinKey: 0100010101000111;                HexKey: 4547; Text: W`cpvdjfe%ah$Fkhtppdgdk%6561+4
+CharKey: EH; BinKey: 0100010101001000;                HexKey: 4548; Text: Wocvkjie*ag$Ikgtpkgkk*6:6>+;
+CharKey: EI; BinKey: 0100010101001001;                HexKey: 4549; Text: Wnc~vjjhe+af$Hkft~pjgjk+6;6?+:
+CharKey: EJ; BinKey: 0100010101001010;                HexKey: 454a; Text: Wmc}vijke(ae$Kket}pigik(686<+9
+CharKey: EK; BinKey: 0100010101001011;                HexKey: 454b; Text: Wlc|vhjje)ad$Jkdt|phghk)696=+8
+CharKey: EL; BinKey: 0100010101001100;                HexKey: 454c; Text: Wkc{vojme.ac$Mkct{pogok.6>6:+?
+CharKey: EM; BinKey: 0100010101001101;                HexKey: 454d; Text: Wjczvnjle/ab$Lkbtzpngnk/6?6;+>
+CharKey: EN; BinKey: 0100010101001110;                HexKey: 454e; Text: Wicyvmjoe,aa$Okatypmgmk,6<68+=
+CharKey: EO; BinKey: 0100010101001111;                HexKey: 454f; Text: Whcxvljne-a`$Nk`txplglk-6=69+<
+CharKey: EP; BinKey: 0100010101010000;                HexKey: 4550; Text: Wwcgvsjqe2a$Qktgpsgsk26"6&+#
+CharKey: EQ; BinKey: 0100010101010001;                HexKey: 4551; Text: Wvcfvrjpe3a~$Pk~tfprgrk36#6'+"
+CharKey: ER; BinKey: 0100010101010010;                HexKey: 4552; Text: Wucevqjse0a}$Sk}tepqgqk06 6$+!
+CharKey: ES; BinKey: 0100010101010011;                HexKey: 4553; Text: Wtcdvpjre1a|$Rk|tdppgpk16!6%+ 
+CharKey: ET; BinKey: 0100010101010100;                HexKey: 4554; Text: Wsccvwjue6a{$Uk{tcpwgwk66&6"+'
+CharKey: EU; BinKey: 0100010101010101;                HexKey: 4555; Text: Wrcbvvjte7az$Tkztbpvgvk76'6#+&
+CharKey: EV; BinKey: 0100010101010110;                HexKey: 4556; Text: Wqcavujwe4ay$Wkytapuguk46$6 +%
+CharKey: EW; BinKey: 0100010101010111;                HexKey: 4557; Text: Wpc`vtjve5ax$Vkxt`ptgtk56%6!+$
+CharKey: EX; BinKey: 0100010101011000;                HexKey: 4558; Text: Wcov{jye:aw$Ykwtop{g{k:6*6.++
+CharKey: EY; BinKey: 0100010101011001;                HexKey: 4559; Text: W~cnvzjxe;av$Xkvtnpzgzk;6+6/+*
+CharKey: EZ; BinKey: 0100010101011010;                HexKey: 455a; Text: W}cmvyj{e8au$[kutmpygyk86(6,+)
+CharKey: E[; BinKey: 0100010101011011;                HexKey: 455b; Text: W|clvxjze9at$Zkttlpxgxk96)6-+(
+CharKey: E\; BinKey: 0100010101011100;                HexKey: 455c; Text: W{ckvj}e>as$]kstkpgk>6.6*+/
+CharKey: E]; BinKey: 0100010101011101;                HexKey: 455d; Text: Wzcjv~j|e?ar$\krtjp~g~k?6/6++.
+CharKey: E^; BinKey: 0100010101011110;                HexKey: 455e; Text: Wyciv}je<aq$_kqtip}g}k<6,6(+-
+CharKey: E_; BinKey: 0100010101011111;                HexKey: 455f; Text: Wxchv|j~e=ap$^kpthp|g|k=6-6)+,
+CharKey: F@; BinKey: 0100011001000000;                HexKey: 4640; Text: Tg`wuciaf"bo'Ahowwscdch"5256(3
+CharKey: FA; BinKey: 0100011001000001;                HexKey: 4641; Text: Tf`vubi`f#bn'@hnwvsbdbh#5357(2
+CharKey: FB; BinKey: 0100011001000010;                HexKey: 4642; Text: Te`uuaicf bm'Chmwusadah 5054(1
+CharKey: FC; BinKey: 0100011001000011;                HexKey: 4643; Text: Td`tu`ibf!bl'Bhlwts`d`h!5155(0
+CharKey: FD; BinKey: 0100011001000100;                HexKey: 4644; Text: Tc`sugief&bk'Ehkwssgdgh&5652(7
+CharKey: FE; BinKey: 0100011001000101;                HexKey: 4645; Text: Tb`rufidf'bj'Dhjwrsfdfh'5753(6
+CharKey: FF; BinKey: 0100011001000110;                HexKey: 4646; Text: Ta`queigf$bi'Ghiwqsedeh$5450(5
+CharKey: FG; BinKey: 0100011001000111;                HexKey: 4647; Text: T``pudiff%bh'Fhhwpsdddh%5551(4
+CharKey: FH; BinKey: 0100011001001000;                HexKey: 4648; Text: To`ukiif*bg'Ihgwskdkh*5:5>(;
+CharKey: FI; BinKey: 0100011001001001;                HexKey: 4649; Text: Tn`~ujihf+bf'Hhfw~sjdjh+5;5?(:
+CharKey: FJ; BinKey: 0100011001001010;                HexKey: 464a; Text: Tm`}uiikf(be'Khew}sidih(585<(9
+CharKey: FK; BinKey: 0100011001001011;                HexKey: 464b; Text: Tl`|uhijf)bd'Jhdw|shdhh)595=(8
+CharKey: FL; BinKey: 0100011001001100;                HexKey: 464c; Text: Tk`{uoimf.bc'Mhcw{sodoh.5>5:(?
+CharKey: FM; BinKey: 0100011001001101;                HexKey: 464d; Text: Tj`zunilf/bb'Lhbwzsndnh/5?5;(>
+CharKey: FN; BinKey: 0100011001001110;                HexKey: 464e; Text: Ti`yumiof,ba'Ohawysmdmh,5<58(=
+CharKey: FO; BinKey: 0100011001001111;                HexKey: 464f; Text: Th`xulinf-b`'Nh`wxsldlh-5=59(<
+CharKey: FP; BinKey: 0100011001010000;                HexKey: 4650; Text: Tw`gusiqf2b'Qhwgssdsh25"5&(#
+CharKey: FQ; BinKey: 0100011001010001;                HexKey: 4651; Text: Tv`furipf3b~'Ph~wfsrdrh35#5'("
+CharKey: FR; BinKey: 0100011001010010;                HexKey: 4652; Text: Tu`euqisf0b}'Sh}wesqdqh05 5$(!
+CharKey: FS; BinKey: 0100011001010011;                HexKey: 4653; Text: Tt`dupirf1b|'Rh|wdspdph15!5%( 
+CharKey: FT; BinKey: 0100011001010100;                HexKey: 4654; Text: Ts`cuwiuf6b{'Uh{wcswdwh65&5"('
+CharKey: FU; BinKey: 0100011001010101;                HexKey: 4655; Text: Tr`buvitf7bz'Thzwbsvdvh75'5#(&
+CharKey: FV; BinKey: 0100011001010110;                HexKey: 4656; Text: Tq`auuiwf4by'Whywasuduh45$5 (%
+CharKey: FW; BinKey: 0100011001010111;                HexKey: 4657; Text: Tp``utivf5bx'Vhxw`stdth55%5!($
+CharKey: FX; BinKey: 0100011001011000;                HexKey: 4658; Text: T`ou{iyf:bw'Yhwwos{d{h:5*5.(+
+CharKey: FY; BinKey: 0100011001011001;                HexKey: 4659; Text: T~`nuzixf;bv'Xhvwnszdzh;5+5/(*
+CharKey: FZ; BinKey: 0100011001011010;                HexKey: 465a; Text: T}`muyi{f8bu'[huwmsydyh85(5,()
+CharKey: F[; BinKey: 0100011001011011;                HexKey: 465b; Text: T|`luxizf9bt'Zhtwlsxdxh95)5-((
+CharKey: F\; BinKey: 0100011001011100;                HexKey: 465c; Text: T{`kui}f>bs']hswksdh>5.5*(/
+CharKey: F]; BinKey: 0100011001011101;                HexKey: 465d; Text: Tz`ju~i|f?br'\hrwjs~d~h?5/5+(.
+CharKey: F^; BinKey: 0100011001011110;                HexKey: 465e; Text: Ty`iu}if<bq'_hqwis}d}h<5,5((-
+CharKey: F_; BinKey: 0100011001011111;                HexKey: 465f; Text: Tx`hu|i~f=bp'^hpwhs|d|h=5-5)(,
+CharKey: G@; BinKey: 0100011101000000;                HexKey: 4740; Text: Ugawtchag"co&Aiovwrceci"4246)3
+CharKey: GA; BinKey: 0100011101000001;                HexKey: 4741; Text: Ufavtbh`g#cn&@invvrbebi#4347)2
+CharKey: GB; BinKey: 0100011101000010;                HexKey: 4742; Text: Ueautahcg cm&Cimvuraeai 4044)1
+CharKey: GC; BinKey: 0100011101000011;                HexKey: 4743; Text: Udatt`hbg!cl&Bilvtr`e`i!4145)0
+CharKey: GD; BinKey: 0100011101000100;                HexKey: 4744; Text: Ucastgheg&ck&Eikvsrgegi&4642)7
+CharKey: GE; BinKey: 0100011101000101;                HexKey: 4745; Text: Ubartfhdg'cj&Dijvrrfefi'4743)6
+CharKey: GF; BinKey: 0100011101000110;                HexKey: 4746; Text: Uaaqtehgg$ci&Giivqreeei$4440)5
+CharKey: GG; BinKey: 0100011101000111;                HexKey: 4747; Text: U`aptdhfg%ch&Fihvprdedi%4541)4
+CharKey: GH; BinKey: 0100011101001000;                HexKey: 4748; Text: Uoatkhig*cg&Iigvrkeki*4:4>);
+CharKey: GI; BinKey: 0100011101001001;                HexKey: 4749; Text: Una~tjhhg+cf&Hifv~rjeji+4;4?):
+CharKey: GJ; BinKey: 0100011101001010;                HexKey: 474a; Text: Uma}tihkg(ce&Kiev}rieii(484<)9
+CharKey: GK; BinKey: 0100011101001011;                HexKey: 474b; Text: Ula|thhjg)cd&Jidv|rhehi)494=)8
+CharKey: GL; BinKey: 0100011101001100;                HexKey: 474c; Text: Uka{tohmg.cc&Micv{roeoi.4>4:)?
+CharKey: GM; BinKey: 0100011101001101;                HexKey: 474d; Text: Ujaztnhlg/cb&Libvzrneni/4?4;)>
+CharKey: GN; BinKey: 0100011101001110;                HexKey: 474e; Text: Uiaytmhog,ca&Oiavyrmemi,4<48)=
+CharKey: GO; BinKey: 0100011101001111;                HexKey: 474f; Text: Uhaxtlhng-c`&Ni`vxrleli-4=49)<
+CharKey: GP; BinKey: 0100011101010000;                HexKey: 4750; Text: Uwagtshqg2c&Qivgrsesi24"4&)#
+CharKey: GQ; BinKey: 0100011101010001;                HexKey: 4751; Text: Uvaftrhpg3c~&Pi~vfrreri34#4')"
+CharKey: GR; BinKey: 0100011101010010;                HexKey: 4752; Text: Uuaetqhsg0c}&Si}verqeqi04 4$)!
+CharKey: GS; BinKey: 0100011101010011;                HexKey: 4753; Text: Utadtphrg1c|&Ri|vdrpepi14!4%) 
+CharKey: GT; BinKey: 0100011101010100;                HexKey: 4754; Text: Usactwhug6c{&Ui{vcrwewi64&4")'
+CharKey: GU; BinKey: 0100011101010101;                HexKey: 4755; Text: Urabtvhtg7cz&Tizvbrvevi74'4#)&
+CharKey: GV; BinKey: 0100011101010110;                HexKey: 4756; Text: Uqaatuhwg4cy&Wiyvarueui44$4 )%
+CharKey: GW; BinKey: 0100011101010111;                HexKey: 4757; Text: Upa`tthvg5cx&Vixv`rteti54%4!)$
+CharKey: GX; BinKey: 0100011101011000;                HexKey: 4758; Text: Uaot{hyg:cw&Yiwvor{e{i:4*4.)+
+CharKey: GY; BinKey: 0100011101011001;                HexKey: 4759; Text: U~antzhxg;cv&Xivvnrzezi;4+4/)*
+CharKey: GZ; BinKey: 0100011101011010;                HexKey: 475a; Text: U}amtyh{g8cu&[iuvmryeyi84(4,))
+CharKey: G[; BinKey: 0100011101011011;                HexKey: 475b; Text: U|altxhzg9ct&Zitvlrxexi94)4-)(
+CharKey: G\; BinKey: 0100011101011100;                HexKey: 475c; Text: U{akth}g>cs&]isvkrei>4.4*)/
+CharKey: G]; BinKey: 0100011101011101;                HexKey: 475d; Text: Uzajt~h|g?cr&\irvjr~e~i?4/4+).
+CharKey: G^; BinKey: 0100011101011110;                HexKey: 475e; Text: Uyait}hg<cq&_iqvir}e}i<4,4()-
+CharKey: G_; BinKey: 0100011101011111;                HexKey: 475f; Text: Uxaht|h~g=cp&^ipvhr|e|i=4-4)),
+CharKey: H@; BinKey: 0100100001000000;                HexKey: 4840; Text: Zgnw{cgah"lo)Afoyw}cjcf";2;6&3
+CharKey: HA; BinKey: 0100100001000001;                HexKey: 4841; Text: Zfnv{bg`h#ln)@fnyv}bjbf#;3;7&2
+CharKey: HB; BinKey: 0100100001000010;                HexKey: 4842; Text: Zenu{agch lm)Cfmyu}ajaf ;0;4&1
+CharKey: HC; BinKey: 0100100001000011;                HexKey: 4843; Text: Zdnt{`gbh!ll)Bflyt}`j`f!;1;5&0
+CharKey: HD; BinKey: 0100100001000100;                HexKey: 4844; Text: Zcns{ggeh&lk)Efkys}gjgf&;6;2&7
+CharKey: HE; BinKey: 0100100001000101;                HexKey: 4845; Text: Zbnr{fgdh'lj)Dfjyr}fjff';7;3&6
+CharKey: HF; BinKey: 0100100001000110;                HexKey: 4846; Text: Zanq{eggh$li)Gfiyq}ejef$;4;0&5
+CharKey: HG; BinKey: 0100100001000111;                HexKey: 4847; Text: Z`np{dgfh%lh)Ffhyp}djdf%;5;1&4
+CharKey: HH; BinKey: 0100100001001000;                HexKey: 4848; Text: Zon{kgih*lg)Ifgy}kjkf*;:;>&;
+CharKey: HI; BinKey: 0100100001001001;                HexKey: 4849; Text: Znn~{jghh+lf)Hffy~}jjjf+;;;?&:
+CharKey: HJ; BinKey: 0100100001001010;                HexKey: 484a; Text: Zmn}{igkh(le)Kfey}}ijif(;8;<&9
+CharKey: HK; BinKey: 0100100001001011;                HexKey: 484b; Text: Zln|{hgjh)ld)Jfdy|}hjhf);9;=&8
+CharKey: HL; BinKey: 0100100001001100;                HexKey: 484c; Text: Zkn{{ogmh.lc)Mfcy{}ojof.;>;:&?
+CharKey: HM; BinKey: 0100100001001101;                HexKey: 484d; Text: Zjnz{nglh/lb)Lfbyz}njnf/;?;;&>
+CharKey: HN; BinKey: 0100100001001110;                HexKey: 484e; Text: Ziny{mgoh,la)Ofayy}mjmf,;<;8&=
+CharKey: HO; BinKey: 0100100001001111;                HexKey: 484f; Text: Zhnx{lgnh-l`)Nf`yx}ljlf-;=;9&<
+CharKey: HP; BinKey: 0100100001010000;                HexKey: 4850; Text: Zwng{sgqh2l)Qfyg}sjsf2;";&&#
+CharKey: HQ; BinKey: 0100100001010001;                HexKey: 4851; Text: Zvnf{rgph3l~)Pf~yf}rjrf3;#;'&"
+CharKey: HR; BinKey: 0100100001010010;                HexKey: 4852; Text: Zune{qgsh0l})Sf}ye}qjqf0; ;$&!
+CharKey: HS; BinKey: 0100100001010011;                HexKey: 4853; Text: Ztnd{pgrh1l|)Rf|yd}pjpf1;!;%& 
+CharKey: HT; BinKey: 0100100001010100;                HexKey: 4854; Text: Zsnc{wguh6l{)Uf{yc}wjwf6;&;"&'
+CharKey: HU; BinKey: 0100100001010101;                HexKey: 4855; Text: Zrnb{vgth7lz)Tfzyb}vjvf7;';#&&
+CharKey: HV; BinKey: 0100100001010110;                HexKey: 4856; Text: Zqna{ugwh4ly)Wfyya}ujuf4;$; &%
+CharKey: HW; BinKey: 0100100001010111;                HexKey: 4857; Text: Zpn`{tgvh5lx)Vfxy`}tjtf5;%;!&$
+CharKey: HX; BinKey: 0100100001011000;                HexKey: 4858; Text: Zno{{gyh:lw)Yfwyo}{j{f:;*;.&+
+CharKey: HY; BinKey: 0100100001011001;                HexKey: 4859; Text: Z~nn{zgxh;lv)Xfvyn}zjzf;;+;/&*
+CharKey: HZ; BinKey: 0100100001011010;                HexKey: 485a; Text: Z}nm{yg{h8lu)[fuym}yjyf8;(;,&)
+CharKey: H[; BinKey: 0100100001011011;                HexKey: 485b; Text: Z|nl{xgzh9lt)Zftyl}xjxf9;);-&(
+CharKey: H\; BinKey: 0100100001011100;                HexKey: 485c; Text: Z{nk{g}h>ls)]fsyk}jf>;.;*&/
+CharKey: H]; BinKey: 0100100001011101;                HexKey: 485d; Text: Zznj{~g|h?lr)\fryj}~j~f?;/;+&.
+CharKey: H^; BinKey: 0100100001011110;                HexKey: 485e; Text: Zyni{}gh<lq)_fqyi}}j}f<;,;(&-
+CharKey: H_; BinKey: 0100100001011111;                HexKey: 485f; Text: Zxnh{|g~h=lp)^fpyh}|j|f=;-;)&,
+CharKey: I@; BinKey: 0100100101000000;                HexKey: 4940; Text: [gowzcfai"mo(Agoxw|ckcg":2:6'3
+CharKey: IA; BinKey: 0100100101000001;                HexKey: 4941; Text: [fovzbf`i#mn(@gnxv|bkbg#:3:7'2
+CharKey: IB; BinKey: 0100100101000010;                HexKey: 4942; Text: [eouzafci mm(Cgmxu|akag :0:4'1
+CharKey: IC; BinKey: 0100100101000011;                HexKey: 4943; Text: [dotz`fbi!ml(Bglxt|`k`g!:1:5'0
+CharKey: ID; BinKey: 0100100101000100;                HexKey: 4944; Text: [coszgfei&mk(Egkxs|gkgg&:6:2'7
+CharKey: IE; BinKey: 0100100101000101;                HexKey: 4945; Text: [borzffdi'mj(Dgjxr|fkfg':7:3'6
+CharKey: IF; BinKey: 0100100101000110;                HexKey: 4946; Text: [aoqzefgi$mi(Ggixq|ekeg$:4:0'5
+CharKey: IG; BinKey: 0100100101000111;                HexKey: 4947; Text: [`opzdffi%mh(Fghxp|dkdg%:5:1'4
+CharKey: IH; BinKey: 0100100101001000;                HexKey: 4948; Text: [oozkfii*mg(Iggx|kkkg*:::>';
+CharKey: II; BinKey: 0100100101001001;                HexKey: 4949; Text: [no~zjfhi+mf(Hgfx~|jkjg+:;:?':
+CharKey: IJ; BinKey: 0100100101001010;                HexKey: 494a; Text: [mo}zifki(me(Kgex}|ikig(:8:<'9
+CharKey: IK; BinKey: 0100100101001011;                HexKey: 494b; Text: [lo|zhfji)md(Jgdx||hkhg):9:='8
+CharKey: IL; BinKey: 0100100101001100;                HexKey: 494c; Text: [ko{zofmi.mc(Mgcx{|okog.:>::'?
+CharKey: IM; BinKey: 0100100101001101;                HexKey: 494d; Text: [jozznfli/mb(Lgbxz|nkng/:?:;'>
+CharKey: IN; BinKey: 0100100101001110;                HexKey: 494e; Text: [ioyzmfoi,ma(Ogaxy|mkmg,:<:8'=
+CharKey: IO; BinKey: 0100100101001111;                HexKey: 494f; Text: [hoxzlfni-m`(Ng`xx|lklg-:=:9'<
+CharKey: IP; BinKey: 0100100101010000;                HexKey: 4950; Text: [wogzsfqi2m(Qgxg|sksg2:":&'#
+CharKey: IQ; BinKey: 0100100101010001;                HexKey: 4951; Text: [vofzrfpi3m~(Pg~xf|rkrg3:#:''"
+CharKey: IR; BinKey: 0100100101010010;                HexKey: 4952; Text: [uoezqfsi0m}(Sg}xe|qkqg0: :$'!
+CharKey: IS; BinKey: 0100100101010011;                HexKey: 4953; Text: [todzpfri1m|(Rg|xd|pkpg1:!:%' 
+CharKey: IT; BinKey: 0100100101010100;                HexKey: 4954; Text: [soczwfui6m{(Ug{xc|wkwg6:&:"''
+CharKey: IU; BinKey: 0100100101010101;                HexKey: 4955; Text: [robzvfti7mz(Tgzxb|vkvg7:':#'&
+CharKey: IV; BinKey: 0100100101010110;                HexKey: 4956; Text: [qoazufwi4my(Wgyxa|ukug4:$: '%
+CharKey: IW; BinKey: 0100100101010111;                HexKey: 4957; Text: [po`ztfvi5mx(Vgxx`|tktg5:%:!'$
+CharKey: IX; BinKey: 0100100101011000;                HexKey: 4958; Text: [ooz{fyi:mw(Ygwxo|{k{g::*:.'+
+CharKey: IY; BinKey: 0100100101011001;                HexKey: 4959; Text: [~onzzfxi;mv(Xgvxn|zkzg;:+:/'*
+CharKey: IZ; BinKey: 0100100101011010;                HexKey: 495a; Text: [}omzyf{i8mu([guxm|ykyg8:(:,')
+CharKey: I[; BinKey: 0100100101011011;                HexKey: 495b; Text: [|olzxfzi9mt(Zgtxl|xkxg9:):-'(
+CharKey: I\; BinKey: 0100100101011100;                HexKey: 495c; Text: [{okzf}i>ms(]gsxk|kg>:.:*'/
+CharKey: I]; BinKey: 0100100101011101;                HexKey: 495d; Text: [zojz~f|i?mr(\grxj|~k~g?:/:+'.
+CharKey: I^; BinKey: 0100100101011110;                HexKey: 495e; Text: [yoiz}fi<mq(_gqxi|}k}g<:,:('-
+CharKey: I_; BinKey: 0100100101011111;                HexKey: 495f; Text: [xohz|f~i=mp(^gpxh||k|g=:-:)',
+CharKey: J@; BinKey: 0100101001000000;                HexKey: 4a40; Text: Xglwyceaj"no+Ado{wchcd"9296$3
+CharKey: JA; BinKey: 0100101001000001;                HexKey: 4a41; Text: Xflvybe`j#nn+@dn{vbhbd#9397$2
+CharKey: JB; BinKey: 0100101001000010;                HexKey: 4a42; Text: Xeluyaecj nm+Cdm{uahad 9094$1
+CharKey: JC; BinKey: 0100101001000011;                HexKey: 4a43; Text: Xdlty`ebj!nl+Bdl{t`h`d!9195$0
+CharKey: JD; BinKey: 0100101001000100;                HexKey: 4a44; Text: Xclsygeej&nk+Edk{sghgd&9692$7
+CharKey: JE; BinKey: 0100101001000101;                HexKey: 4a45; Text: Xblryfedj'nj+Ddj{rfhfd'9793$6
+CharKey: JF; BinKey: 0100101001000110;                HexKey: 4a46; Text: Xalqyeegj$ni+Gdi{qehed$9490$5
+CharKey: JG; BinKey: 0100101001000111;                HexKey: 4a47; Text: X`lpydefj%nh+Fdh{pdhdd%9591$4
+CharKey: JH; BinKey: 0100101001001000;                HexKey: 4a48; Text: Xolykeij*ng+Idg{khkd*9:9>$;
+CharKey: JI; BinKey: 0100101001001001;                HexKey: 4a49; Text: Xnl~yjehj+nf+Hdf{~jhjd+9;9?$:
+CharKey: JJ; BinKey: 0100101001001010;                HexKey: 4a4a; Text: Xml}yiekj(ne+Kde{}ihid(989<$9
+CharKey: JK; BinKey: 0100101001001011;                HexKey: 4a4b; Text: Xll|yhejj)nd+Jdd{|hhhd)999=$8
+CharKey: JL; BinKey: 0100101001001100;                HexKey: 4a4c; Text: Xkl{yoemj.nc+Mdc{{ohod.9>9:$?
+CharKey: JM; BinKey: 0100101001001101;                HexKey: 4a4d; Text: Xjlzynelj/nb+Ldb{znhnd/9?9;$>
+CharKey: JN; BinKey: 0100101001001110;                HexKey: 4a4e; Text: Xilyymeoj,na+Oda{ymhmd,9<98$=
+CharKey: JO; BinKey: 0100101001001111;                HexKey: 4a4f; Text: Xhlxylenj-n`+Nd`{xlhld-9=99$<
+CharKey: JP; BinKey: 0100101001010000;                HexKey: 4a50; Text: Xwlgyseqj2n+Qd{gshsd29"9&$#
+CharKey: JQ; BinKey: 0100101001010001;                HexKey: 4a51; Text: Xvlfyrepj3n~+Pd~{frhrd39#9'$"
+CharKey: JR; BinKey: 0100101001010010;                HexKey: 4a52; Text: Xuleyqesj0n}+Sd}{eqhqd09 9$$!
+CharKey: JS; BinKey: 0100101001010011;                HexKey: 4a53; Text: Xtldyperj1n|+Rd|{dphpd19!9%$ 
+CharKey: JT; BinKey: 0100101001010100;                HexKey: 4a54; Text: Xslcyweuj6n{+Ud{{cwhwd69&9"$'
+CharKey: JU; BinKey: 0100101001010101;                HexKey: 4a55; Text: Xrlbyvetj7nz+Tdz{bvhvd79'9#$&
+CharKey: JV; BinKey: 0100101001010110;                HexKey: 4a56; Text: Xqlayuewj4ny+Wdy{auhud49$9 $%
+CharKey: JW; BinKey: 0100101001010111;                HexKey: 4a57; Text: Xpl`ytevj5nx+Vdx{`thtd59%9!$$
+CharKey: JX; BinKey: 0100101001011000;                HexKey: 4a58; Text: Xloy{eyj:nw+Ydw{o{h{d:9*9.$+
+CharKey: JY; BinKey: 0100101001011001;                HexKey: 4a59; Text: X~lnyzexj;nv+Xdv{nzhzd;9+9/$*
+CharKey: JZ; BinKey: 0100101001011010;                HexKey: 4a5a; Text: X}lmyye{j8nu+[du{myhyd89(9,$)
+CharKey: J[; BinKey: 0100101001011011;                HexKey: 4a5b; Text: X|llyxezj9nt+Zdt{lxhxd99)9-$(
+CharKey: J\; BinKey: 0100101001011100;                HexKey: 4a5c; Text: X{lkye}j>ns+]ds{khd>9.9*$/
+CharKey: J]; BinKey: 0100101001011101;                HexKey: 4a5d; Text: Xzljy~e|j?nr+\dr{j~h~d?9/9+$.
+CharKey: J^; BinKey: 0100101001011110;                HexKey: 4a5e; Text: Xyliy}ej<nq+_dq{i}h}d<9,9($-
+CharKey: J_; BinKey: 0100101001011111;                HexKey: 4a5f; Text: Xxlhy|e~j=np+^dp{h|h|d=9-9)$,
+CharKey: K@; BinKey: 0100101101000000;                HexKey: 4b40; Text: Ygmwxcdak"oo*Aeozw~cice"8286%3
+CharKey: KA; BinKey: 0100101101000001;                HexKey: 4b41; Text: Yfmvxbd`k#on*@enzv~bibe#8387%2
+CharKey: KB; BinKey: 0100101101000010;                HexKey: 4b42; Text: Yemuxadck om*Cemzu~aiae 8084%1
+CharKey: KC; BinKey: 0100101101000011;                HexKey: 4b43; Text: Ydmtx`dbk!ol*Belzt~`i`e!8185%0
+CharKey: KD; BinKey: 0100101101000100;                HexKey: 4b44; Text: Ycmsxgdek&ok*Eekzs~gige&8682%7
+CharKey: KE; BinKey: 0100101101000101;                HexKey: 4b45; Text: Ybmrxfddk'oj*Dejzr~fife'8783%6
+CharKey: KF; BinKey: 0100101101000110;                HexKey: 4b46; Text: Yamqxedgk$oi*Geizq~eiee$8480%5
+CharKey: KG; BinKey: 0100101101000111;                HexKey: 4b47; Text: Y`mpxddfk%oh*Fehzp~dide%8581%4
+CharKey: KH; BinKey: 0100101101001000;                HexKey: 4b48; Text: Yomxkdik*og*Iegz~kike*8:8>%;
+CharKey: KI; BinKey: 0100101101001001;                HexKey: 4b49; Text: Ynm~xjdhk+of*Hefz~~jije+8;8?%:
+CharKey: KJ; BinKey: 0100101101001010;                HexKey: 4b4a; Text: Ymm}xidkk(oe*Keez}~iiie(888<%9
+CharKey: KK; BinKey: 0100101101001011;                HexKey: 4b4b; Text: Ylm|xhdjk)od*Jedz|~hihe)898=%8
+CharKey: KL; BinKey: 0100101101001100;                HexKey: 4b4c; Text: Ykm{xodmk.oc*Mecz{~oioe.8>8:%?
+CharKey: KM; BinKey: 0100101101001101;                HexKey: 4b4d; Text: Yjmzxndlk/ob*Lebzz~nine/8?8;%>
+CharKey: KN; BinKey: 0100101101001110;                HexKey: 4b4e; Text: Yimyxmdok,oa*Oeazy~mime,8<88%=
+CharKey: KO; BinKey: 0100101101001111;                HexKey: 4b4f; Text: Yhmxxldnk-o`*Ne`zx~lile-8=89%<
+CharKey: KP; BinKey: 0100101101010000;                HexKey: 4b50; Text: Ywmgxsdqk2o*Qezg~sise28"8&%#
+CharKey: KQ; BinKey: 0100101101010001;                HexKey: 4b51; Text: Yvmfxrdpk3o~*Pe~zf~rire38#8'%"
+CharKey: KR; BinKey: 0100101101010010;                HexKey: 4b52; Text: Yumexqdsk0o}*Se}ze~qiqe08 8$%!
+CharKey: KS; BinKey: 0100101101010011;                HexKey: 4b53; Text: Ytmdxpdrk1o|*Re|zd~pipe18!8%% 
+CharKey: KT; BinKey: 0100101101010100;                HexKey: 4b54; Text: Ysmcxwduk6o{*Ue{zc~wiwe68&8"%'
+CharKey: KU; BinKey: 0100101101010101;                HexKey: 4b55; Text: Yrmbxvdtk7oz*Tezzb~vive78'8#%&
+CharKey: KV; BinKey: 0100101101010110;                HexKey: 4b56; Text: Yqmaxudwk4oy*Weyza~uiue48$8 %%
+CharKey: KW; BinKey: 0100101101010111;                HexKey: 4b57; Text: Ypm`xtdvk5ox*Vexz`~tite58%8!%$
+CharKey: KX; BinKey: 0100101101011000;                HexKey: 4b58; Text: Ymox{dyk:ow*Yewzo~{i{e:8*8.%+
+CharKey: KY; BinKey: 0100101101011001;                HexKey: 4b59; Text: Y~mnxzdxk;ov*Xevzn~zize;8+8/%*
+CharKey: KZ; BinKey: 0100101101011010;                HexKey: 4b5a; Text: Y}mmxyd{k8ou*[euzm~yiye88(8,%)
+CharKey: K[; BinKey: 0100101101011011;                HexKey: 4b5b; Text: Y|mlxxdzk9ot*Zetzl~xixe98)8-%(
+CharKey: K\; BinKey: 0100101101011100;                HexKey: 4b5c; Text: Y{mkxd}k>os*]eszk~ie>8.8*%/
+CharKey: K]; BinKey: 0100101101011101;                HexKey: 4b5d; Text: Yzmjx~d|k?or*\erzj~~i~e?8/8+%.
+CharKey: K^; BinKey: 0100101101011110;                HexKey: 4b5e; Text: Yymix}dk<oq*_eqzi~}i}e<8,8(%-
+CharKey: K_; BinKey: 0100101101011111;                HexKey: 4b5f; Text: Yxmhx|d~k=op*^epzh~|i|e=8-8)%,
+CharKey: L@; BinKey: 0100110001000000;                HexKey: 4c40; Text: ^gjwccal"ho-Abo}wycncb"?2?6"3
+CharKey: LA; BinKey: 0100110001000001;                HexKey: 4c41; Text: ^fjvbc`l#hn-@bn}vybnbb#?3?7"2
+CharKey: LB; BinKey: 0100110001000010;                HexKey: 4c42; Text: ^ejuaccl hm-Cbm}uyanab ?0?4"1
+CharKey: LC; BinKey: 0100110001000011;                HexKey: 4c43; Text: ^djt`cbl!hl-Bbl}ty`n`b!?1?5"0
+CharKey: LD; BinKey: 0100110001000100;                HexKey: 4c44; Text: ^cjsgcel&hk-Ebk}sygngb&?6?2"7
+CharKey: LE; BinKey: 0100110001000101;                HexKey: 4c45; Text: ^bjrfcdl'hj-Dbj}ryfnfb'?7?3"6
+CharKey: LF; BinKey: 0100110001000110;                HexKey: 4c46; Text: ^ajqecgl$hi-Gbi}qyeneb$?4?0"5
+CharKey: LG; BinKey: 0100110001000111;                HexKey: 4c47; Text: ^`jpdcfl%hh-Fbh}pydndb%?5?1"4
+CharKey: LH; BinKey: 0100110001001000;                HexKey: 4c48; Text: ^ojkcil*hg-Ibg}yknkb*?:?>";
+CharKey: LI; BinKey: 0100110001001001;                HexKey: 4c49; Text: ^nj~jchl+hf-Hbf}~yjnjb+?;??":
+CharKey: LJ; BinKey: 0100110001001010;                HexKey: 4c4a; Text: ^mj}ickl(he-Kbe}}yinib(?8?<"9
+CharKey: LK; BinKey: 0100110001001011;                HexKey: 4c4b; Text: ^lj|hcjl)hd-Jbd}|yhnhb)?9?="8
+CharKey: LL; BinKey: 0100110001001100;                HexKey: 4c4c; Text: ^kj{ocml.hc-Mbc}{yonob.?>?:"?
+CharKey: LM; BinKey: 0100110001001101;                HexKey: 4c4d; Text: ^jjzncll/hb-Lbb}zynnnb/???;">
+CharKey: LN; BinKey: 0100110001001110;                HexKey: 4c4e; Text: ^ijymcol,ha-Oba}yymnmb,?<?8"=
+CharKey: LO; BinKey: 0100110001001111;                HexKey: 4c4f; Text: ^hjxlcnl-h`-Nb`}xylnlb-?=?9"<
+CharKey: LP; BinKey: 0100110001010000;                HexKey: 4c50; Text: ^wjgscql2h-Qb}gysnsb2?"?&"#
+CharKey: LQ; BinKey: 0100110001010001;                HexKey: 4c51; Text: ^vjfrcpl3h~-Pb~}fyrnrb3?#?'""
+CharKey: LR; BinKey: 0100110001010010;                HexKey: 4c52; Text: ^ujeqcsl0h}-Sb}}eyqnqb0? ?$"!
+CharKey: LS; BinKey: 0100110001010011;                HexKey: 4c53; Text: ^tjdpcrl1h|-Rb|}dypnpb1?!?%" 
+CharKey: LT; BinKey: 0100110001010100;                HexKey: 4c54; Text: ^sjcwcul6h{-Ub{}cywnwb6?&?""'
+CharKey: LU; BinKey: 0100110001010101;                HexKey: 4c55; Text: ^rjbvctl7hz-Tbz}byvnvb7?'?#"&
+CharKey: LV; BinKey: 0100110001010110;                HexKey: 4c56; Text: ^qjaucwl4hy-Wby}ayunub4?$? "%
+CharKey: LW; BinKey: 0100110001010111;                HexKey: 4c57; Text: ^pj`tcvl5hx-Vbx}`ytntb5?%?!"$
+CharKey: LX; BinKey: 0100110001011000;                HexKey: 4c58; Text: ^jo{cyl:hw-Ybw}oy{n{b:?*?."+
+CharKey: LY; BinKey: 0100110001011001;                HexKey: 4c59; Text: ^~jnzcxl;hv-Xbv}nyznzb;?+?/"*
+CharKey: LZ; BinKey: 0100110001011010;                HexKey: 4c5a; Text: ^}jmyc{l8hu-[bu}myynyb8?(?,")
+CharKey: L[; BinKey: 0100110001011011;                HexKey: 4c5b; Text: ^|jlxczl9ht-Zbt}lyxnxb9?)?-"(
+CharKey: L\; BinKey: 0100110001011100;                HexKey: 4c5c; Text: ^{jkc}l>hs-]bs}kynb>?.?*"/
+CharKey: L]; BinKey: 0100110001011101;                HexKey: 4c5d; Text: ^zjj~c|l?hr-\br}jy~n~b??/?+".
+CharKey: L^; BinKey: 0100110001011110;                HexKey: 4c5e; Text: ^yji}cl<hq-_bq}iy}n}b<?,?("-
+CharKey: L_; BinKey: 0100110001011111;                HexKey: 4c5f; Text: ^xjh|c~l=hp-^bp}hy|n|b=?-?)",
+CharKey: M@; BinKey: 0100110101000000;                HexKey: 4d40; Text: _gkw~cbam"io,Aco|wxcocc">2>6#3
+CharKey: MA; BinKey: 0100110101000001;                HexKey: 4d41; Text: _fkv~bb`m#in,@cn|vxbobc#>3>7#2
+CharKey: MB; BinKey: 0100110101000010;                HexKey: 4d42; Text: _eku~abcm im,Ccm|uxaoac >0>4#1
+CharKey: MC; BinKey: 0100110101000011;                HexKey: 4d43; Text: _dkt~`bbm!il,Bcl|tx`o`c!>1>5#0
+CharKey: MD; BinKey: 0100110101000100;                HexKey: 4d44; Text: _cks~gbem&ik,Eck|sxgogc&>6>2#7
+CharKey: ME; BinKey: 0100110101000101;                HexKey: 4d45; Text: _bkr~fbdm'ij,Dcj|rxfofc'>7>3#6
+CharKey: MF; BinKey: 0100110101000110;                HexKey: 4d46; Text: _akq~ebgm$ii,Gci|qxeoec$>4>0#5
+CharKey: MG; BinKey: 0100110101000111;                HexKey: 4d47; Text: _`kp~dbfm%ih,Fch|pxdodc%>5>1#4
+CharKey: MH; BinKey: 0100110101001000;                HexKey: 4d48; Text: _ok~kbim*ig,Icg|xkokc*>:>>#;
+CharKey: MI; BinKey: 0100110101001001;                HexKey: 4d49; Text: _nk~~jbhm+if,Hcf|~xjojc+>;>?#:
+CharKey: MJ; BinKey: 0100110101001010;                HexKey: 4d4a; Text: _mk}~ibkm(ie,Kce|}xioic(>8><#9
+CharKey: MK; BinKey: 0100110101001011;                HexKey: 4d4b; Text: _lk|~hbjm)id,Jcd||xhohc)>9>=#8
+CharKey: ML; BinKey: 0100110101001100;                HexKey: 4d4c; Text: _kk{~obmm.ic,Mcc|{xoooc.>>>:#?
+CharKey: MM; BinKey: 0100110101001101;                HexKey: 4d4d; Text: _jkz~nblm/ib,Lcb|zxnonc/>?>;#>
+CharKey: MN; BinKey: 0100110101001110;                HexKey: 4d4e; Text: _iky~mbom,ia,Oca|yxmomc,><>8#=
+CharKey: MO; BinKey: 0100110101001111;                HexKey: 4d4f; Text: _hkx~lbnm-i`,Nc`|xxlolc->=>9#<
+CharKey: MP; BinKey: 0100110101010000;                HexKey: 4d50; Text: _wkg~sbqm2i,Qc|gxsosc2>">&##
+CharKey: MQ; BinKey: 0100110101010001;                HexKey: 4d51; Text: _vkf~rbpm3i~,Pc~|fxrorc3>#>'#"
+CharKey: MR; BinKey: 0100110101010010;                HexKey: 4d52; Text: _uke~qbsm0i},Sc}|exqoqc0> >$#!
+CharKey: MS; BinKey: 0100110101010011;                HexKey: 4d53; Text: _tkd~pbrm1i|,Rc||dxpopc1>!>%# 
+CharKey: MT; BinKey: 0100110101010100;                HexKey: 4d54; Text: _skc~wbum6i{,Uc{|cxwowc6>&>"#'
+CharKey: MU; BinKey: 0100110101010101;                HexKey: 4d55; Text: _rkb~vbtm7iz,Tcz|bxvovc7>'>##&
+CharKey: MV; BinKey: 0100110101010110;                HexKey: 4d56; Text: _qka~ubwm4iy,Wcy|axuouc4>$> #%
+CharKey: MW; BinKey: 0100110101010111;                HexKey: 4d57; Text: _pk`~tbvm5ix,Vcx|`xtotc5>%>!#$
+CharKey: MX; BinKey: 0100110101011000;                HexKey: 4d58; Text: _ko~{bym:iw,Ycw|ox{o{c:>*>.#+
+CharKey: MY; BinKey: 0100110101011001;                HexKey: 4d59; Text: _~kn~zbxm;iv,Xcv|nxzozc;>+>/#*
+CharKey: MZ; BinKey: 0100110101011010;                HexKey: 4d5a; Text: _}km~yb{m8iu,[cu|mxyoyc8>(>,#)
+CharKey: M[; BinKey: 0100110101011011;                HexKey: 4d5b; Text: _|kl~xbzm9it,Zct|lxxoxc9>)>-#(
+CharKey: M\; BinKey: 0100110101011100;                HexKey: 4d5c; Text: _{kk~b}m>is,]cs|kxoc>>.>*#/
+CharKey: M]; BinKey: 0100110101011101;                HexKey: 4d5d; Text: _zkj~~b|m?ir,\cr|jx~o~c?>/>+#.
+CharKey: M^; BinKey: 0100110101011110;                HexKey: 4d5e; Text: _yki~}bm<iq,_cq|ix}o}c<>,>(#-
+CharKey: M_; BinKey: 0100110101011111;                HexKey: 4d5f; Text: _xkh~|b~m=ip,^cp|hx|o|c=>->)#,
+CharKey: N@; BinKey: 0100111001000000;                HexKey: 4e40; Text: \ghw}caan"jo/A`ow{clc`"=2=6 3
+CharKey: NA; BinKey: 0100111001000001;                HexKey: 4e41; Text: \fhv}ba`n#jn/@`nv{blb`#=3=7 2
+CharKey: NB; BinKey: 0100111001000010;                HexKey: 4e42; Text: \ehu}aacn jm/C`mu{ala` =0=4 1
+CharKey: NC; BinKey: 0100111001000011;                HexKey: 4e43; Text: \dht}`abn!jl/B`lt{`l``!=1=5 0
+CharKey: ND; BinKey: 0100111001000100;                HexKey: 4e44; Text: \chs}gaen&jk/E`ks{glg`&=6=2 7
+CharKey: NE; BinKey: 0100111001000101;                HexKey: 4e45; Text: \bhr}fadn'jj/D`jr{flf`'=7=3 6
+CharKey: NF; BinKey: 0100111001000110;                HexKey: 4e46; Text: \ahq}eagn$ji/G`iq{ele`$=4=0 5
+CharKey: NG; BinKey: 0100111001000111;                HexKey: 4e47; Text: \`hp}dafn%jh/F`hp{dld`%=5=1 4
+CharKey: NH; BinKey: 0100111001001000;                HexKey: 4e48; Text: \oh}kain*jg/I`g{klk`*=:=> ;
+CharKey: NI; BinKey: 0100111001001001;                HexKey: 4e49; Text: \nh~}jahn+jf/H`f~{jlj`+=;=? :
+CharKey: NJ; BinKey: 0100111001001010;                HexKey: 4e4a; Text: \mh}}iakn(je/K`e}{ili`(=8=< 9
+CharKey: NK; BinKey: 0100111001001011;                HexKey: 4e4b; Text: \lh|}hajn)jd/J`d|{hlh`)=9== 8
+CharKey: NL; BinKey: 0100111001001100;                HexKey: 4e4c; Text: \kh{}oamn.jc/M`c{{olo`.=>=: ?
+CharKey: NM; BinKey: 0100111001001101;                HexKey: 4e4d; Text: \jhz}naln/jb/L`bz{nln`/=?=; >
+CharKey: NN; BinKey: 0100111001001110;                HexKey: 4e4e; Text: \ihy}maon,ja/O`ay{mlm`,=<=8 =
+CharKey: NO; BinKey: 0100111001001111;                HexKey: 4e4f; Text: \hhx}lann-j`/N``x{lll`-===9 <
+CharKey: NP; BinKey: 0100111001010000;                HexKey: 4e50; Text: \whg}saqn2j/Q`g{sls`2="=& #
+CharKey: NQ; BinKey: 0100111001010001;                HexKey: 4e51; Text: \vhf}rapn3j~/P`~f{rlr`3=#=' "
+CharKey: NR; BinKey: 0100111001010010;                HexKey: 4e52; Text: \uhe}qasn0j}/S`}e{qlq`0= =$ !
+CharKey: NS; BinKey: 0100111001010011;                HexKey: 4e53; Text: \thd}parn1j|/R`|d{plp`1=!=%  
+CharKey: NT; BinKey: 0100111001010100;                HexKey: 4e54; Text: \shc}waun6j{/U`{c{wlw`6=&=" '
+CharKey: NU; BinKey: 0100111001010101;                HexKey: 4e55; Text: \rhb}vatn7jz/T`zb{vlv`7='=# &
+CharKey: NV; BinKey: 0100111001010110;                HexKey: 4e56; Text: \qha}uawn4jy/W`ya{ulu`4=$=  %
+CharKey: NW; BinKey: 0100111001010111;                HexKey: 4e57; Text: \ph`}tavn5jx/V`x`{tlt`5=%=! $
+CharKey: NX; BinKey: 0100111001011000;                HexKey: 4e58; Text: \ho}{ayn:jw/Y`wo{{l{`:=*=. +
+CharKey: NY; BinKey: 0100111001011001;                HexKey: 4e59; Text: \~hn}zaxn;jv/X`vn{zlz`;=+=/ *
+CharKey: NZ; BinKey: 0100111001011010;                HexKey: 4e5a; Text: \}hm}ya{n8ju/[`um{yly`8=(=, )
+CharKey: N[; BinKey: 0100111001011011;                HexKey: 4e5b; Text: \|hl}xazn9jt/Z`tl{xlx`9=)=- (
+CharKey: N\; BinKey: 0100111001011100;                HexKey: 4e5c; Text: \{hk}a}n>js/]`sk{l`>=.=* /
+CharKey: N]; BinKey: 0100111001011101;                HexKey: 4e5d; Text: \zhj}~a|n?jr/\`rj{~l~`?=/=+ .
+CharKey: N^; BinKey: 0100111001011110;                HexKey: 4e5e; Text: \yhi}}an<jq/_`qi{}l}`<=,=( -
+CharKey: N_; BinKey: 0100111001011111;                HexKey: 4e5f; Text: \xhh}|a~n=jp/^`ph{|l|`==-=) ,
+CharKey: O@; BinKey: 0100111101000000;                HexKey: 4f40; Text: ]giw|c`ao"ko.Aao~wzcmca"<2<6!3
+CharKey: OA; BinKey: 0100111101000001;                HexKey: 4f41; Text: ]fiv|b``o#kn.@an~vzbmba#<3<7!2
+CharKey: OB; BinKey: 0100111101000010;                HexKey: 4f42; Text: ]eiu|a`co km.Cam~uzamaa <0<4!1
+CharKey: OC; BinKey: 0100111101000011;                HexKey: 4f43; Text: ]dit|``bo!kl.Bal~tz`m`a!<1<5!0
+CharKey: OD; BinKey: 0100111101000100;                HexKey: 4f44; Text: ]cis|g`eo&kk.Eak~szgmga&<6<2!7
+CharKey: OE; BinKey: 0100111101000101;                HexKey: 4f45; Text: ]bir|f`do'kj.Daj~rzfmfa'<7<3!6
+CharKey: OF; BinKey: 0100111101000110;                HexKey: 4f46; Text: ]aiq|e`go$ki.Gai~qzemea$<4<0!5
+CharKey: OG; BinKey: 0100111101000111;                HexKey: 4f47; Text: ]`ip|d`fo%kh.Fah~pzdmda%<5<1!4
+CharKey: OH; BinKey: 0100111101001000;                HexKey: 4f48; Text: ]oi|k`io*kg.Iag~zkmka*<:<>!;
+CharKey: OI; BinKey: 0100111101001001;                HexKey: 4f49; Text: ]ni~|j`ho+kf.Haf~~zjmja+<;<?!:
+CharKey: OJ; BinKey: 0100111101001010;                HexKey: 4f4a; Text: ]mi}|i`ko(ke.Kae~}zimia(<8<<!9
+CharKey: OK; BinKey: 0100111101001011;                HexKey: 4f4b; Text: ]li||h`jo)kd.Jad~|zhmha)<9<=!8
+CharKey: OL; BinKey: 0100111101001100;                HexKey: 4f4c; Text: ]ki{|o`mo.kc.Mac~{zomoa.<><:!?
+CharKey: OM; BinKey: 0100111101001101;                HexKey: 4f4d; Text: ]jiz|n`lo/kb.Lab~zznmna/<?<;!>
+CharKey: ON; BinKey: 0100111101001110;                HexKey: 4f4e; Text: ]iiy|m`oo,ka.Oaa~yzmmma,<<<8!=
+CharKey: OO; BinKey: 0100111101001111;                HexKey: 4f4f; Text: ]hix|l`no-k`.Na`~xzlmla-<=<9!<
+CharKey: OP; BinKey: 0100111101010000;                HexKey: 4f50; Text: ]wig|s`qo2k.Qa~gzsmsa2<"<&!#
+CharKey: OQ; BinKey: 0100111101010001;                HexKey: 4f51; Text: ]vif|r`po3k~.Pa~~fzrmra3<#<'!"
+CharKey: OR; BinKey: 0100111101010010;                HexKey: 4f52; Text: ]uie|q`so0k}.Sa}~ezqmqa0< <$!!
+CharKey: OS; BinKey: 0100111101010011;                HexKey: 4f53; Text: ]tid|p`ro1k|.Ra|~dzpmpa1<!<%! 
+CharKey: OT; BinKey: 0100111101010100;                HexKey: 4f54; Text: ]sic|w`uo6k{.Ua{~czwmwa6<&<"!'
+CharKey: OU; BinKey: 0100111101010101;                HexKey: 4f55; Text: ]rib|v`to7kz.Taz~bzvmva7<'<#!&
+CharKey: OV; BinKey: 0100111101010110;                HexKey: 4f56; Text: ]qia|u`wo4ky.Way~azumua4<$< !%
+CharKey: OW; BinKey: 0100111101010111;                HexKey: 4f57; Text: ]pi`|t`vo5kx.Vax~`ztmta5<%<!!$
+CharKey: OX; BinKey: 0100111101011000;                HexKey: 4f58; Text: ]io|{`yo:kw.Yaw~oz{m{a:<*<.!+
+CharKey: OY; BinKey: 0100111101011001;                HexKey: 4f59; Text: ]~in|z`xo;kv.Xav~nzzmza;<+</!*
+CharKey: OZ; BinKey: 0100111101011010;                HexKey: 4f5a; Text: ]}im|y`{o8ku.[au~mzymya8<(<,!)
+CharKey: O[; BinKey: 0100111101011011;                HexKey: 4f5b; Text: ]|il|x`zo9kt.Zat~lzxmxa9<)<-!(
+CharKey: O\; BinKey: 0100111101011100;                HexKey: 4f5c; Text: ]{ik|`}o>ks.]as~kzma><.<*!/
+CharKey: O]; BinKey: 0100111101011101;                HexKey: 4f5d; Text: ]zij|~`|o?kr.\ar~jz~m~a?</<+!.
+CharKey: O^; BinKey: 0100111101011110;                HexKey: 4f5e; Text: ]yii|}`o<kq._aq~iz}m}a<<,<(!-
+CharKey: O_; BinKey: 0100111101011111;                HexKey: 4f5f; Text: ]xih||`~o=kp.^ap~hz|m|a=<-<)!,
+CharKey: P@; BinKey: 0101000001000000;                HexKey: 5040; Text: Bgvwccap"to1A~oawecrc~"#2#6>3
+CharKey: PA; BinKey: 0101000001000001;                HexKey: 5041; Text: Bfvvcb`p#tn1@~navebrb~##3#7>2
+CharKey: PB; BinKey: 0101000001000010;                HexKey: 5042; Text: Bevucacp tm1C~maueara~ #0#4>1
+CharKey: PC; BinKey: 0101000001000011;                HexKey: 5043; Text: Bdvtc`bp!tl1B~late`r`~!#1#5>0
+CharKey: PD; BinKey: 0101000001000100;                HexKey: 5044; Text: Bcvscgep&tk1E~kasegrg~&#6#2>7
+CharKey: PE; BinKey: 0101000001000101;                HexKey: 5045; Text: Bbvrcfdp'tj1D~jarefrf~'#7#3>6
+CharKey: PF; BinKey: 0101000001000110;                HexKey: 5046; Text: Bavqcegp$ti1G~iaqeere~$#4#0>5
+CharKey: PG; BinKey: 0101000001000111;                HexKey: 5047; Text: B`vpcdfp%th1F~hapedrd~%#5#1>4
+CharKey: PH; BinKey: 0101000001001000;                HexKey: 5048; Text: Bovckip*tg1I~gaekrk~*#:#>>;
+CharKey: PI; BinKey: 0101000001001001;                HexKey: 5049; Text: Bnv~cjhp+tf1H~fa~ejrj~+#;#?>:
+CharKey: PJ; BinKey: 0101000001001010;                HexKey: 504a; Text: Bmv}cikp(te1K~ea}eiri~(#8#<>9
+CharKey: PK; BinKey: 0101000001001011;                HexKey: 504b; Text: Blv|chjp)td1J~da|ehrh~)#9#=>8
+CharKey: PL; BinKey: 0101000001001100;                HexKey: 504c; Text: Bkv{comp.tc1M~ca{eoro~.#>#:>?
+CharKey: PM; BinKey: 0101000001001101;                HexKey: 504d; Text: Bjvzcnlp/tb1L~bazenrn~/#?#;>>
+CharKey: PN; BinKey: 0101000001001110;                HexKey: 504e; Text: Bivycmop,ta1O~aayemrm~,#<#8>=
+CharKey: PO; BinKey: 0101000001001111;                HexKey: 504f; Text: Bhvxclnp-t`1N~`axelrl~-#=#9><
+CharKey: PP; BinKey: 0101000001010000;                HexKey: 5050; Text: Bwvgcsqp2t1Q~agesrs~2#"#&>#
+CharKey: PQ; BinKey: 0101000001010001;                HexKey: 5051; Text: Bvvfcrpp3t~1P~~aferrr~3###'>"
+CharKey: PR; BinKey: 0101000001010010;                HexKey: 5052; Text: Buvecqsp0t}1S~}aeeqrq~0# #$>!
+CharKey: PS; BinKey: 0101000001010011;                HexKey: 5053; Text: Btvdcprp1t|1R~|adeprp~1#!#%> 
+CharKey: PT; BinKey: 0101000001010100;                HexKey: 5054; Text: Bsvccwup6t{1U~{acewrw~6#&#">'
+CharKey: PU; BinKey: 0101000001010101;                HexKey: 5055; Text: Brvbcvtp7tz1T~zabevrv~7#'##>&
+CharKey: PV; BinKey: 0101000001010110;                HexKey: 5056; Text: Bqvacuwp4ty1W~yaaeuru~4#$# >%
+CharKey: PW; BinKey: 0101000001010111;                HexKey: 5057; Text: Bpv`ctvp5tx1V~xa`etrt~5#%#!>$
+CharKey: PX; BinKey: 0101000001011000;                HexKey: 5058; Text: Bvoc{yp:tw1Y~waoe{r{~:#*#.>+
+CharKey: PY; BinKey: 0101000001011001;                HexKey: 5059; Text: B~vnczxp;tv1X~vanezrz~;#+#/>*
+CharKey: PZ; BinKey: 0101000001011010;                HexKey: 505a; Text: B}vmcy{p8tu1[~uameyry~8#(#,>)
+CharKey: P[; BinKey: 0101000001011011;                HexKey: 505b; Text: B|vlcxzp9tt1Z~talexrx~9#)#->(
+CharKey: P\; BinKey: 0101000001011100;                HexKey: 505c; Text: B{vkc}p>ts1]~saker~>#.#*>/
+CharKey: P]; BinKey: 0101000001011101;                HexKey: 505d; Text: Bzvjc~|p?tr1\~raje~r~~?#/#+>.
+CharKey: P^; BinKey: 0101000001011110;                HexKey: 505e; Text: Byvic}p<tq1_~qaie}r}~<#,#(>-
+CharKey: P_; BinKey: 0101000001011111;                HexKey: 505f; Text: Bxvhc|~p=tp1^~pahe|r|~=#-#)>,
+CharKey: Q@; BinKey: 0101000101000000;                HexKey: 5140; Text: Cgwwbc~aq"uo0Ao`wdcsc""2"6?3
+CharKey: QA; BinKey: 0101000101000001;                HexKey: 5141; Text: Cfwvbb~`q#un0@n`vdbsb#"3"7?2
+CharKey: QB; BinKey: 0101000101000010;                HexKey: 5142; Text: Cewuba~cq um0Cm`udasa "0"4?1
+CharKey: QC; BinKey: 0101000101000011;                HexKey: 5143; Text: Cdwtb`~bq!ul0Bl`td`s`!"1"5?0
+CharKey: QD; BinKey: 0101000101000100;                HexKey: 5144; Text: Ccwsbg~eq&uk0Ek`sdgsg&"6"2?7
+CharKey: QE; BinKey: 0101000101000101;                HexKey: 5145; Text: Cbwrbf~dq'uj0Dj`rdfsf'"7"3?6
+CharKey: QF; BinKey: 0101000101000110;                HexKey: 5146; Text: Cawqbe~gq$ui0Gi`qdese$"4"0?5
+CharKey: QG; BinKey: 0101000101000111;                HexKey: 5147; Text: C`wpbd~fq%uh0Fh`pddsd%"5"1?4
+CharKey: QH; BinKey: 0101000101001000;                HexKey: 5148; Text: Cowbk~iq*ug0Ig`dksk*":">?;
+CharKey: QI; BinKey: 0101000101001001;                HexKey: 5149; Text: Cnw~bj~hq+uf0Hf`~djsj+";"??:
+CharKey: QJ; BinKey: 0101000101001010;                HexKey: 514a; Text: Cmw}bi~kq(ue0Ke`}disi("8"<?9
+CharKey: QK; BinKey: 0101000101001011;                HexKey: 514b; Text: Clw|bh~jq)ud0Jd`|dhsh)"9"=?8
+CharKey: QL; BinKey: 0101000101001100;                HexKey: 514c; Text: Ckw{bo~mq.uc0Mc`{doso.">":??
+CharKey: QM; BinKey: 0101000101001101;                HexKey: 514d; Text: Cjwzbn~lq/ub0Lb`zdnsn/"?";?>
+CharKey: QN; BinKey: 0101000101001110;                HexKey: 514e; Text: Ciwybm~oq,ua0Oa`ydmsm,"<"8?=
+CharKey: QO; BinKey: 0101000101001111;                HexKey: 514f; Text: Chwxbl~nq-u`0N``xdlsl-"="9?<
+CharKey: QP; BinKey: 0101000101010000;                HexKey: 5150; Text: Cwwgbs~qq2u0Q`gdsss2"""&?#
+CharKey: QQ; BinKey: 0101000101010001;                HexKey: 5151; Text: Cvwfbr~pq3u~0P~`fdrsr3"#"'?"
+CharKey: QR; BinKey: 0101000101010010;                HexKey: 5152; Text: Cuwebq~sq0u}0S}`edqsq0" "$?!
+CharKey: QS; BinKey: 0101000101010011;                HexKey: 5153; Text: Ctwdbp~rq1u|0R|`ddpsp1"!"%? 
+CharKey: QT; BinKey: 0101000101010100;                HexKey: 5154; Text: Cswcbw~uq6u{0U{`cdwsw6"&""?'
+CharKey: QU; BinKey: 0101000101010101;                HexKey: 5155; Text: Crwbbv~tq7uz0Tz`bdvsv7"'"#?&
+CharKey: QV; BinKey: 0101000101010110;                HexKey: 5156; Text: Cqwabu~wq4uy0Wy`adusu4"$" ?%
+CharKey: QW; BinKey: 0101000101010111;                HexKey: 5157; Text: Cpw`bt~vq5ux0Vx``dtst5"%"!?$
+CharKey: QX; BinKey: 0101000101011000;                HexKey: 5158; Text: Cwob{~yq:uw0Yw`od{s{:"*".?+
+CharKey: QY; BinKey: 0101000101011001;                HexKey: 5159; Text: C~wnbz~xq;uv0Xv`ndzsz;"+"/?*
+CharKey: QZ; BinKey: 0101000101011010;                HexKey: 515a; Text: C}wmby~{q8uu0[u`mdysy8"(",?)
+CharKey: Q[; BinKey: 0101000101011011;                HexKey: 515b; Text: C|wlbx~zq9ut0Zt`ldxsx9")"-?(
+CharKey: Q\; BinKey: 0101000101011100;                HexKey: 515c; Text: C{wkb~}q>us0]s`kds>"."*?/
+CharKey: Q]; BinKey: 0101000101011101;                HexKey: 515d; Text: Czwjb~~|q?ur0\r`jd~s~?"/"+?.
+CharKey: Q^; BinKey: 0101000101011110;                HexKey: 515e; Text: Cywib}~q<uq0_q`id}s}<","(?-
+CharKey: Q_; BinKey: 0101000101011111;                HexKey: 515f; Text: Cxwhb|~~q=up0^p`hd|s|="-")?,
+CharKey: R@; BinKey: 0101001001000000;                HexKey: 5240; Text: @gtwac}ar"vo3A|ocwgcpc|"!2!6<3
+CharKey: RA; BinKey: 0101001001000001;                HexKey: 5241; Text: @ftvab}`r#vn3@|ncvgbpb|#!3!7<2
+CharKey: RB; BinKey: 0101001001000010;                HexKey: 5242; Text: @etuaa}cr vm3C|mcugapa| !0!4<1
+CharKey: RC; BinKey: 0101001001000011;                HexKey: 5243; Text: @dtta`}br!vl3B|lctg`p`|!!1!5<0
+CharKey: RD; BinKey: 0101001001000100;                HexKey: 5244; Text: @ctsag}er&vk3E|kcsggpg|&!6!2<7
+CharKey: RE; BinKey: 0101001001000101;                HexKey: 5245; Text: @btraf}dr'vj3D|jcrgfpf|'!7!3<6
+CharKey: RF; BinKey: 0101001001000110;                HexKey: 5246; Text: @atqae}gr$vi3G|icqgepe|$!4!0<5
+CharKey: RG; BinKey: 0101001001000111;                HexKey: 5247; Text: @`tpad}fr%vh3F|hcpgdpd|%!5!1<4
+CharKey: RH; BinKey: 0101001001001000;                HexKey: 5248; Text: @otak}ir*vg3I|gcgkpk|*!:!><;
+CharKey: RI; BinKey: 0101001001001001;                HexKey: 5249; Text: @nt~aj}hr+vf3H|fc~gjpj|+!;!?<:
+CharKey: RJ; BinKey: 0101001001001010;                HexKey: 524a; Text: @mt}ai}kr(ve3K|ec}gipi|(!8!<<9
+CharKey: RK; BinKey: 0101001001001011;                HexKey: 524b; Text: @lt|ah}jr)vd3J|dc|ghph|)!9!=<8
+CharKey: RL; BinKey: 0101001001001100;                HexKey: 524c; Text: @kt{ao}mr.vc3M|cc{gopo|.!>!:<?
+CharKey: RM; BinKey: 0101001001001101;                HexKey: 524d; Text: @jtzan}lr/vb3L|bczgnpn|/!?!;<>
+CharKey: RN; BinKey: 0101001001001110;                HexKey: 524e; Text: @ityam}or,va3O|acygmpm|,!<!8<=
+CharKey: RO; BinKey: 0101001001001111;                HexKey: 524f; Text: @htxal}nr-v`3N|`cxglpl|-!=!9<<
+CharKey: RP; BinKey: 0101001001010000;                HexKey: 5250; Text: @wtgas}qr2v3Q|cggsps|2!"!&<#
+CharKey: RQ; BinKey: 0101001001010001;                HexKey: 5251; Text: @vtfar}pr3v~3P|~cfgrpr|3!#!'<"
+CharKey: RR; BinKey: 0101001001010010;                HexKey: 5252; Text: @uteaq}sr0v}3S|}cegqpq|0! !$<!
+CharKey: RS; BinKey: 0101001001010011;                HexKey: 5253; Text: @ttdap}rr1v|3R||cdgppp|1!!!%< 
+CharKey: RT; BinKey: 0101001001010100;                HexKey: 5254; Text: @stcaw}ur6v{3U|{ccgwpw|6!&!"<'
+CharKey: RU; BinKey: 0101001001010101;                HexKey: 5255; Text: @rtbav}tr7vz3T|zcbgvpv|7!'!#<&
+CharKey: RV; BinKey: 0101001001010110;                HexKey: 5256; Text: @qtaau}wr4vy3W|ycagupu|4!$! <%
+CharKey: RW; BinKey: 0101001001010111;                HexKey: 5257; Text: @pt`at}vr5vx3V|xc`gtpt|5!%!!<$
+CharKey: RX; BinKey: 0101001001011000;                HexKey: 5258; Text: @toa{}yr:vw3Y|wcog{p{|:!*!.<+
+CharKey: RY; BinKey: 0101001001011001;                HexKey: 5259; Text: @~tnaz}xr;vv3X|vcngzpz|;!+!/<*
+CharKey: RZ; BinKey: 0101001001011010;                HexKey: 525a; Text: @}tmay}{r8vu3[|ucmgypy|8!(!,<)
+CharKey: R[; BinKey: 0101001001011011;                HexKey: 525b; Text: @|tlax}zr9vt3Z|tclgxpx|9!)!-<(
+CharKey: R\; BinKey: 0101001001011100;                HexKey: 525c; Text: @{tka}}r>vs3]|sckgp|>!.!*</
+CharKey: R]; BinKey: 0101001001011101;                HexKey: 525d; Text: @ztja~}|r?vr3\|rcjg~p~|?!/!+<.
+CharKey: R^; BinKey: 0101001001011110;                HexKey: 525e; Text: @ytia}}r<vq3_|qcig}p}|<!,!(<-
+CharKey: R_; BinKey: 0101001001011111;                HexKey: 525f; Text: @xtha|}~r=vp3^|pchg|p||=!-!)<,
+CharKey: S@; BinKey: 0101001101000000;                HexKey: 5340; Text: Aguw`c|as"wo2A}obwfcqc}" 2 6=3
+CharKey: SA; BinKey: 0101001101000001;                HexKey: 5341; Text: Afuv`b|`s#wn2@}nbvfbqb}# 3 7=2
+CharKey: SB; BinKey: 0101001101000010;                HexKey: 5342; Text: Aeuu`a|cs wm2C}mbufaqa}  0 4=1
+CharKey: SC; BinKey: 0101001101000011;                HexKey: 5343; Text: Adut``|bs!wl2B}lbtf`q`}! 1 5=0
+CharKey: SD; BinKey: 0101001101000100;                HexKey: 5344; Text: Acus`g|es&wk2E}kbsfgqg}& 6 2=7
+CharKey: SE; BinKey: 0101001101000101;                HexKey: 5345; Text: Abur`f|ds'wj2D}jbrffqf}' 7 3=6
+CharKey: SF; BinKey: 0101001101000110;                HexKey: 5346; Text: Aauq`e|gs$wi2G}ibqfeqe}$ 4 0=5
+CharKey: SG; BinKey: 0101001101000111;                HexKey: 5347; Text: A`up`d|fs%wh2F}hbpfdqd}% 5 1=4
+CharKey: SH; BinKey: 0101001101001000;                HexKey: 5348; Text: Aou`k|is*wg2I}gbfkqk}* : >=;
+CharKey: SI; BinKey: 0101001101001001;                HexKey: 5349; Text: Anu~`j|hs+wf2H}fb~fjqj}+ ; ?=:
+CharKey: SJ; BinKey: 0101001101001010;                HexKey: 534a; Text: Amu}`i|ks(we2K}eb}fiqi}( 8 <=9
+CharKey: SK; BinKey: 0101001101001011;                HexKey: 534b; Text: Alu|`h|js)wd2J}db|fhqh}) 9 ==8
+CharKey: SL; BinKey: 0101001101001100;                HexKey: 534c; Text: Aku{`o|ms.wc2M}cb{foqo}. > :=?
+CharKey: SM; BinKey: 0101001101001101;                HexKey: 534d; Text: Ajuz`n|ls/wb2L}bbzfnqn}/ ? ;=>
+CharKey: SN; BinKey: 0101001101001110;                HexKey: 534e; Text: Aiuy`m|os,wa2O}abyfmqm}, < 8==
+CharKey: SO; BinKey: 0101001101001111;                HexKey: 534f; Text: Ahux`l|ns-w`2N}`bxflql}- = 9=<
+CharKey: SP; BinKey: 0101001101010000;                HexKey: 5350; Text: Awug`s|qs2w2Q}bgfsqs}2 " &=#
+CharKey: SQ; BinKey: 0101001101010001;                HexKey: 5351; Text: Avuf`r|ps3w~2P}~bffrqr}3 # '="
+CharKey: SR; BinKey: 0101001101010010;                HexKey: 5352; Text: Auue`q|ss0w}2S}}befqqq}0   $=!
+CharKey: SS; BinKey: 0101001101010011;                HexKey: 5353; Text: Atud`p|rs1w|2R}|bdfpqp}1 ! %= 
+CharKey: ST; BinKey: 0101001101010100;                HexKey: 5354; Text: Asuc`w|us6w{2U}{bcfwqw}6 & "='
+CharKey: SU; BinKey: 0101001101010101;                HexKey: 5355; Text: Arub`v|ts7wz2T}zbbfvqv}7 ' #=&
+CharKey: SV; BinKey: 0101001101010110;                HexKey: 5356; Text: Aqua`u|ws4wy2W}ybafuqu}4 $  =%
+CharKey: SW; BinKey: 0101001101010111;                HexKey: 5357; Text: Apu``t|vs5wx2V}xb`ftqt}5 % !=$
+CharKey: SX; BinKey: 0101001101011000;                HexKey: 5358; Text: Auo`{|ys:ww2Y}wbof{q{}: * .=+
+CharKey: SY; BinKey: 0101001101011001;                HexKey: 5359; Text: A~un`z|xs;wv2X}vbnfzqz}; + /=*
+CharKey: SZ; BinKey: 0101001101011010;                HexKey: 535a; Text: A}um`y|{s8wu2[}ubmfyqy}8 ( ,=)
+CharKey: S[; BinKey: 0101001101011011;                HexKey: 535b; Text: A|ul`x|zs9wt2Z}tblfxqx}9 ) -=(
+CharKey: S\; BinKey: 0101001101011100;                HexKey: 535c; Text: A{uk`|}s>ws2]}sbkfq}> . *=/
+CharKey: S]; BinKey: 0101001101011101;                HexKey: 535d; Text: Azuj`~||s?wr2\}rbjf~q~}? / +=.
+CharKey: S^; BinKey: 0101001101011110;                HexKey: 535e; Text: Ayui`}|s<wq2_}qbif}q}}< , (=-
+CharKey: S_; BinKey: 0101001101011111;                HexKey: 535f; Text: Axuh`||~s=wp2^}pbhf|q|}= - )=,
+CharKey: T@; BinKey: 0101010001000000;                HexKey: 5440; Text: Fgrwgc{at"po5Azoewacvcz"'2'6:3
+CharKey: TA; BinKey: 0101010001000001;                HexKey: 5441; Text: Ffrvgb{`t#pn5@znevabvbz#'3'7:2
+CharKey: TB; BinKey: 0101010001000010;                HexKey: 5442; Text: Feruga{ct pm5Czmeuaavaz '0'4:1
+CharKey: TC; BinKey: 0101010001000011;                HexKey: 5443; Text: Fdrtg`{bt!pl5Bzleta`v`z!'1'5:0
+CharKey: TD; BinKey: 0101010001000100;                HexKey: 5444; Text: Fcrsgg{et&pk5Ezkesagvgz&'6'2:7
+CharKey: TE; BinKey: 0101010001000101;                HexKey: 5445; Text: Fbrrgf{dt'pj5Dzjerafvfz''7'3:6
+CharKey: TF; BinKey: 0101010001000110;                HexKey: 5446; Text: Farqge{gt$pi5Gzieqaevez$'4'0:5
+CharKey: TG; BinKey: 0101010001000111;                HexKey: 5447; Text: F`rpgd{ft%ph5Fzhepadvdz%'5'1:4
+CharKey: TH; BinKey: 0101010001001000;                HexKey: 5448; Text: Forgk{it*pg5Izgeakvkz*':'>:;
+CharKey: TI; BinKey: 0101010001001001;                HexKey: 5449; Text: Fnr~gj{ht+pf5Hzfe~ajvjz+';'?::
+CharKey: TJ; BinKey: 0101010001001010;                HexKey: 544a; Text: Fmr}gi{kt(pe5Kzee}aiviz('8'<:9
+CharKey: TK; BinKey: 0101010001001011;                HexKey: 544b; Text: Flr|gh{jt)pd5Jzde|ahvhz)'9'=:8
+CharKey: TL; BinKey: 0101010001001100;                HexKey: 544c; Text: Fkr{go{mt.pc5Mzce{aovoz.'>'::?
+CharKey: TM; BinKey: 0101010001001101;                HexKey: 544d; Text: Fjrzgn{lt/pb5Lzbezanvnz/'?';:>
+CharKey: TN; BinKey: 0101010001001110;                HexKey: 544e; Text: Firygm{ot,pa5Ozaeyamvmz,'<'8:=
+CharKey: TO; BinKey: 0101010001001111;                HexKey: 544f; Text: Fhrxgl{nt-p`5Nz`exalvlz-'='9:<
+CharKey: TP; BinKey: 0101010001010000;                HexKey: 5450; Text: Fwrggs{qt2p5Qzegasvsz2'"'&:#
+CharKey: TQ; BinKey: 0101010001010001;                HexKey: 5451; Text: Fvrfgr{pt3p~5Pz~efarvrz3'#'':"
+CharKey: TR; BinKey: 0101010001010010;                HexKey: 5452; Text: Furegq{st0p}5Sz}eeaqvqz0' '$:!
+CharKey: TS; BinKey: 0101010001010011;                HexKey: 5453; Text: Ftrdgp{rt1p|5Rz|edapvpz1'!'%: 
+CharKey: TT; BinKey: 0101010001010100;                HexKey: 5454; Text: Fsrcgw{ut6p{5Uz{ecawvwz6'&'":'
+CharKey: TU; BinKey: 0101010001010101;                HexKey: 5455; Text: Frrbgv{tt7pz5Tzzebavvvz7'''#:&
+CharKey: TV; BinKey: 0101010001010110;                HexKey: 5456; Text: Fqragu{wt4py5Wzyeaauvuz4'$' :%
+CharKey: TW; BinKey: 0101010001010111;                HexKey: 5457; Text: Fpr`gt{vt5px5Vzxe`atvtz5'%'!:$
+CharKey: TX; BinKey: 0101010001011000;                HexKey: 5458; Text: Frog{{yt:pw5Yzweoa{v{z:'*'.:+
+CharKey: TY; BinKey: 0101010001011001;                HexKey: 5459; Text: F~rngz{xt;pv5Xzvenazvzz;'+'/:*
+CharKey: TZ; BinKey: 0101010001011010;                HexKey: 545a; Text: F}rmgy{{t8pu5[zuemayvyz8'(',:)
+CharKey: T[; BinKey: 0101010001011011;                HexKey: 545b; Text: F|rlgx{zt9pt5Zztelaxvxz9')'-:(
+CharKey: T\; BinKey: 0101010001011100;                HexKey: 545c; Text: F{rkg{}t>ps5]zsekavz>'.'*:/
+CharKey: T]; BinKey: 0101010001011101;                HexKey: 545d; Text: Fzrjg~{|t?pr5\zreja~v~z?'/'+:.
+CharKey: T^; BinKey: 0101010001011110;                HexKey: 545e; Text: Fyrig}{t<pq5_zqeia}v}z<','(:-
+CharKey: T_; BinKey: 0101010001011111;                HexKey: 545f; Text: Fxrhg|{~t=pp5^zpeha|v|z='-'):,
+CharKey: U@; BinKey: 0101010101000000;                HexKey: 5540; Text: Ggswfczau"qo4A{odw`cwc{"&2&6;3
+CharKey: UA; BinKey: 0101010101000001;                HexKey: 5541; Text: Gfsvfbz`u#qn4@{ndv`bwb{#&3&7;2
+CharKey: UB; BinKey: 0101010101000010;                HexKey: 5542; Text: Gesufazcu qm4C{mdu`awa{ &0&4;1
+CharKey: UC; BinKey: 0101010101000011;                HexKey: 5543; Text: Gdstf`zbu!ql4B{ldt``w`{!&1&5;0
+CharKey: UD; BinKey: 0101010101000100;                HexKey: 5544; Text: Gcssfgzeu&qk4E{kds`gwg{&&6&2;7
+CharKey: UE; BinKey: 0101010101000101;                HexKey: 5545; Text: Gbsrffzdu'qj4D{jdr`fwf{'&7&3;6
+CharKey: UF; BinKey: 0101010101000110;                HexKey: 5546; Text: Gasqfezgu$qi4G{idq`ewe{$&4&0;5
+CharKey: UG; BinKey: 0101010101000111;                HexKey: 5547; Text: G`spfdzfu%qh4F{hdp`dwd{%&5&1;4
+CharKey: UH; BinKey: 0101010101001000;                HexKey: 5548; Text: Gosfkziu*qg4I{gd`kwk{*&:&>;;
+CharKey: UI; BinKey: 0101010101001001;                HexKey: 5549; Text: Gns~fjzhu+qf4H{fd~`jwj{+&;&?;:
+CharKey: UJ; BinKey: 0101010101001010;                HexKey: 554a; Text: Gms}fizku(qe4K{ed}`iwi{(&8&<;9
+CharKey: UK; BinKey: 0101010101001011;                HexKey: 554b; Text: Gls|fhzju)qd4J{dd|`hwh{)&9&=;8
+CharKey: UL; BinKey: 0101010101001100;                HexKey: 554c; Text: Gks{fozmu.qc4M{cd{`owo{.&>&:;?
+CharKey: UM; BinKey: 0101010101001101;                HexKey: 554d; Text: Gjszfnzlu/qb4L{bdz`nwn{/&?&;;>
+CharKey: UN; BinKey: 0101010101001110;                HexKey: 554e; Text: Gisyfmzou,qa4O{ady`mwm{,&<&8;=
+CharKey: UO; BinKey: 0101010101001111;                HexKey: 554f; Text: Ghsxflznu-q`4N{`dx`lwl{-&=&9;<
+CharKey: UP; BinKey: 0101010101010000;                HexKey: 5550; Text: Gwsgfszqu2q4Q{dg`sws{2&"&&;#
+CharKey: UQ; BinKey: 0101010101010001;                HexKey: 5551; Text: Gvsffrzpu3q~4P{~df`rwr{3&#&';"
+CharKey: UR; BinKey: 0101010101010010;                HexKey: 5552; Text: Gusefqzsu0q}4S{}de`qwq{0& &$;!
+CharKey: US; BinKey: 0101010101010011;                HexKey: 5553; Text: Gtsdfpzru1q|4R{|dd`pwp{1&!&%; 
+CharKey: UT; BinKey: 0101010101010100;                HexKey: 5554; Text: Gsscfwzuu6q{4U{{dc`www{6&&&";'
+CharKey: UU; BinKey: 0101010101010101;                HexKey: 5555; Text: Grsbfvztu7qz4T{zdb`vwv{7&'&#;&
+CharKey: UV; BinKey: 0101010101010110;                HexKey: 5556; Text: Gqsafuzwu4qy4W{yda`uwu{4&$& ;%
+CharKey: UW; BinKey: 0101010101010111;                HexKey: 5557; Text: Gps`ftzvu5qx4V{xd``twt{5&%&!;$
+CharKey: UX; BinKey: 0101010101011000;                HexKey: 5558; Text: Gsof{zyu:qw4Y{wdo`{w{{:&*&.;+
+CharKey: UY; BinKey: 0101010101011001;                HexKey: 5559; Text: G~snfzzxu;qv4X{vdn`zwz{;&+&/;*
+CharKey: UZ; BinKey: 0101010101011010;                HexKey: 555a; Text: G}smfyz{u8qu4[{udm`ywy{8&(&,;)
+CharKey: U[; BinKey: 0101010101011011;                HexKey: 555b; Text: G|slfxzzu9qt4Z{tdl`xwx{9&)&-;(
+CharKey: U\; BinKey: 0101010101011100;                HexKey: 555c; Text: G{skfz}u>qs4]{sdk`w{>&.&*;/
+CharKey: U]; BinKey: 0101010101011101;                HexKey: 555d; Text: Gzsjf~z|u?qr4\{rdj`~w~{?&/&+;.
+CharKey: U^; BinKey: 0101010101011110;                HexKey: 555e; Text: Gysif}zu<qq4_{qdi`}w}{<&,&(;-
+CharKey: U_; BinKey: 0101010101011111;                HexKey: 555f; Text: Gxshf|z~u=qp4^{pdh`|w|{=&-&);,
+CharKey: V@; BinKey: 0101011001000000;                HexKey: 5640; Text: Dgpwecyav"ro7Axogwcctcx"%2%683
+CharKey: VA; BinKey: 0101011001000001;                HexKey: 5641; Text: Dfpveby`v#rn7@xngvcbtbx#%3%782
+CharKey: VB; BinKey: 0101011001000010;                HexKey: 5642; Text: Depueaycv rm7Cxmgucatax %0%481
+CharKey: VC; BinKey: 0101011001000011;                HexKey: 5643; Text: Ddpte`ybv!rl7Bxlgtc`t`x!%1%580
+CharKey: VD; BinKey: 0101011001000100;                HexKey: 5644; Text: Dcpsegyev&rk7Exkgscgtgx&%6%287
+CharKey: VE; BinKey: 0101011001000101;                HexKey: 5645; Text: Dbprefydv'rj7Dxjgrcftfx'%7%386
+CharKey: VF; BinKey: 0101011001000110;                HexKey: 5646; Text: Dapqeeygv$ri7Gxigqcetex$%4%085
+CharKey: VG; BinKey: 0101011001000111;                HexKey: 5647; Text: D`ppedyfv%rh7Fxhgpcdtdx%%5%184
+CharKey: VH; BinKey: 0101011001001000;                HexKey: 5648; Text: Dopekyiv*rg7Ixggcktkx*%:%>8;
+CharKey: VI; BinKey: 0101011001001001;                HexKey: 5649; Text: Dnp~ejyhv+rf7Hxfg~cjtjx+%;%?8:
+CharKey: VJ; BinKey: 0101011001001010;                HexKey: 564a; Text: Dmp}eiykv(re7Kxeg}citix(%8%<89
+CharKey: VK; BinKey: 0101011001001011;                HexKey: 564b; Text: Dlp|ehyjv)rd7Jxdg|chthx)%9%=88
+CharKey: VL; BinKey: 0101011001001100;                HexKey: 564c; Text: Dkp{eoymv.rc7Mxcg{cotox.%>%:8?
+CharKey: VM; BinKey: 0101011001001101;                HexKey: 564d; Text: Djpzenylv/rb7Lxbgzcntnx/%?%;8>
+CharKey: VN; BinKey: 0101011001001110;                HexKey: 564e; Text: Dipyemyov,ra7Oxagycmtmx,%<%88=
+CharKey: VO; BinKey: 0101011001001111;                HexKey: 564f; Text: Dhpxelynv-r`7Nx`gxcltlx-%=%98<
+CharKey: VP; BinKey: 0101011001010000;                HexKey: 5650; Text: Dwpgesyqv2r7Qxggcstsx2%"%&8#
+CharKey: VQ; BinKey: 0101011001010001;                HexKey: 5651; Text: Dvpferypv3r~7Px~gfcrtrx3%#%'8"
+CharKey: VR; BinKey: 0101011001010010;                HexKey: 5652; Text: Dupeeqysv0r}7Sx}gecqtqx0% %$8!
+CharKey: VS; BinKey: 0101011001010011;                HexKey: 5653; Text: Dtpdepyrv1r|7Rx|gdcptpx1%!%%8 
+CharKey: VT; BinKey: 0101011001010100;                HexKey: 5654; Text: Dspcewyuv6r{7Ux{gccwtwx6%&%"8'
+CharKey: VU; BinKey: 0101011001010101;                HexKey: 5655; Text: Drpbevytv7rz7Txzgbcvtvx7%'%#8&
+CharKey: VV; BinKey: 0101011001010110;                HexKey: 5656; Text: Dqpaeuywv4ry7Wxygacutux4%$% 8%
+CharKey: VW; BinKey: 0101011001010111;                HexKey: 5657; Text: Dpp`etyvv5rx7Vxxg`ctttx5%%%!8$
+CharKey: VX; BinKey: 0101011001011000;                HexKey: 5658; Text: Dpoe{yyv:rw7Yxwgoc{t{x:%*%.8+
+CharKey: VY; BinKey: 0101011001011001;                HexKey: 5659; Text: D~pnezyxv;rv7Xxvgncztzx;%+%/8*
+CharKey: VZ; BinKey: 0101011001011010;                HexKey: 565a; Text: D}pmeyy{v8ru7[xugmcytyx8%(%,8)
+CharKey: V[; BinKey: 0101011001011011;                HexKey: 565b; Text: D|plexyzv9rt7Zxtglcxtxx9%)%-8(
+CharKey: V\; BinKey: 0101011001011100;                HexKey: 565c; Text: D{pkey}v>rs7]xsgkctx>%.%*8/
+CharKey: V]; BinKey: 0101011001011101;                HexKey: 565d; Text: Dzpje~y|v?rr7\xrgjc~t~x?%/%+8.
+CharKey: V^; BinKey: 0101011001011110;                HexKey: 565e; Text: Dypie}yv<rq7_xqgic}t}x<%,%(8-
+CharKey: V_; BinKey: 0101011001011111;                HexKey: 565f; Text: Dxphe|y~v=rp7^xpghc|t|x=%-%)8,
+CharKey: W@; BinKey: 0101011101000000;                HexKey: 5740; Text: Egqwdcxaw"so6Ayofwbcucy"$2$693
+CharKey: WA; BinKey: 0101011101000001;                HexKey: 5741; Text: Efqvdbx`w#sn6@ynfvbbuby#$3$792
+CharKey: WB; BinKey: 0101011101000010;                HexKey: 5742; Text: Eequdaxcw sm6Cymfubauay $0$491
+CharKey: WC; BinKey: 0101011101000011;                HexKey: 5743; Text: Edqtd`xbw!sl6Bylftb`u`y!$1$590
+CharKey: WD; BinKey: 0101011101000100;                HexKey: 5744; Text: Ecqsdgxew&sk6Eykfsbgugy&$6$297
+CharKey: WE; BinKey: 0101011101000101;                HexKey: 5745; Text: Ebqrdfxdw'sj6Dyjfrbfufy'$7$396
+CharKey: WF; BinKey: 0101011101000110;                HexKey: 5746; Text: Eaqqdexgw$si6Gyifqbeuey$$4$095
+CharKey: WG; BinKey: 0101011101000111;                HexKey: 5747; Text: E`qpddxfw%sh6Fyhfpbdudy%$5$194
+CharKey: WH; BinKey: 0101011101001000;                HexKey: 5748; Text: Eoqdkxiw*sg6Iygfbkuky*$:$>9;
+CharKey: WI; BinKey: 0101011101001001;                HexKey: 5749; Text: Enq~djxhw+sf6Hyff~bjujy+$;$?9:
+CharKey: WJ; BinKey: 0101011101001010;                HexKey: 574a; Text: Emq}dixkw(se6Kyef}biuiy($8$<99
+CharKey: WK; BinKey: 0101011101001011;                HexKey: 574b; Text: Elq|dhxjw)sd6Jydf|bhuhy)$9$=98
+CharKey: WL; BinKey: 0101011101001100;                HexKey: 574c; Text: Ekq{doxmw.sc6Mycf{bouoy.$>$:9?
+CharKey: WM; BinKey: 0101011101001101;                HexKey: 574d; Text: Ejqzdnxlw/sb6Lybfzbnuny/$?$;9>
+CharKey: WN; BinKey: 0101011101001110;                HexKey: 574e; Text: Eiqydmxow,sa6Oyafybmumy,$<$89=
+CharKey: WO; BinKey: 0101011101001111;                HexKey: 574f; Text: Ehqxdlxnw-s`6Ny`fxbluly-$=$99<
+CharKey: WP; BinKey: 0101011101010000;                HexKey: 5750; Text: Ewqgdsxqw2s6Qyfgbsusy2$"$&9#
+CharKey: WQ; BinKey: 0101011101010001;                HexKey: 5751; Text: Evqfdrxpw3s~6Py~ffbrury3$#$'9"
+CharKey: WR; BinKey: 0101011101010010;                HexKey: 5752; Text: Euqedqxsw0s}6Sy}febquqy0$ $$9!
+CharKey: WS; BinKey: 0101011101010011;                HexKey: 5753; Text: Etqddpxrw1s|6Ry|fdbpupy1$!$%9 
+CharKey: WT; BinKey: 0101011101010100;                HexKey: 5754; Text: Esqcdwxuw6s{6Uy{fcbwuwy6$&$"9'
+CharKey: WU; BinKey: 0101011101010101;                HexKey: 5755; Text: Erqbdvxtw7sz6Tyzfbbvuvy7$'$#9&
+CharKey: WV; BinKey: 0101011101010110;                HexKey: 5756; Text: Eqqaduxww4sy6Wyyfabuuuy4$$$ 9%
+CharKey: WW; BinKey: 0101011101010111;                HexKey: 5757; Text: Epq`dtxvw5sx6Vyxf`btuty5$%$!9$
+CharKey: WX; BinKey: 0101011101011000;                HexKey: 5758; Text: Eqod{xyw:sw6Yywfob{u{y:$*$.9+
+CharKey: WY; BinKey: 0101011101011001;                HexKey: 5759; Text: E~qndzxxw;sv6Xyvfnbzuzy;$+$/9*
+CharKey: WZ; BinKey: 0101011101011010;                HexKey: 575a; Text: E}qmdyx{w8su6[yufmbyuyy8$($,9)
+CharKey: W[; BinKey: 0101011101011011;                HexKey: 575b; Text: E|qldxxzw9st6Zytflbxuxy9$)$-9(
+CharKey: W\; BinKey: 0101011101011100;                HexKey: 575c; Text: E{qkdx}w>ss6]ysfkbuy>$.$*9/
+CharKey: W]; BinKey: 0101011101011101;                HexKey: 575d; Text: Ezqjd~x|w?sr6\yrfjb~u~y?$/$+9.
+CharKey: W^; BinKey: 0101011101011110;                HexKey: 575e; Text: Eyqid}xw<sq6_yqfib}u}y<$,$(9-
+CharKey: W_; BinKey: 0101011101011111;                HexKey: 575f; Text: Exqhd|x~w=sp6^ypfhb|u|y=$-$)9,
+CharKey: X@; BinKey: 0101100001000000;                HexKey: 5840; Text: Jg~wkcwax"|o9Avoiwmczcv"+2+663
+CharKey: XA; BinKey: 0101100001000001;                HexKey: 5841; Text: Jf~vkbw`x#|n9@vnivmbzbv#+3+762
+CharKey: XB; BinKey: 0101100001000010;                HexKey: 5842; Text: Je~ukawcx |m9Cvmiumazav +0+461
+CharKey: XC; BinKey: 0101100001000011;                HexKey: 5843; Text: Jd~tk`wbx!|l9Bvlitm`z`v!+1+560
+CharKey: XD; BinKey: 0101100001000100;                HexKey: 5844; Text: Jc~skgwex&|k9Evkismgzgv&+6+267
+CharKey: XE; BinKey: 0101100001000101;                HexKey: 5845; Text: Jb~rkfwdx'|j9Dvjirmfzfv'+7+366
+CharKey: XF; BinKey: 0101100001000110;                HexKey: 5846; Text: Ja~qkewgx$|i9Gviiqmezev$+4+065
+CharKey: XG; BinKey: 0101100001000111;                HexKey: 5847; Text: J`~pkdwfx%|h9Fvhipmdzdv%+5+164
+CharKey: XH; BinKey: 0101100001001000;                HexKey: 5848; Text: Jo~kkwix*|g9Ivgimkzkv*+:+>6;
+CharKey: XI; BinKey: 0101100001001001;                HexKey: 5849; Text: Jn~~kjwhx+|f9Hvfi~mjzjv++;+?6:
+CharKey: XJ; BinKey: 0101100001001010;                HexKey: 584a; Text: Jm~}kiwkx(|e9Kvei}miziv(+8+<69
+CharKey: XK; BinKey: 0101100001001011;                HexKey: 584b; Text: Jl~|khwjx)|d9Jvdi|mhzhv)+9+=68
+CharKey: XL; BinKey: 0101100001001100;                HexKey: 584c; Text: Jk~{kowmx.|c9Mvci{mozov.+>+:6?
+CharKey: XM; BinKey: 0101100001001101;                HexKey: 584d; Text: Jj~zknwlx/|b9Lvbizmnznv/+?+;6>
+CharKey: XN; BinKey: 0101100001001110;                HexKey: 584e; Text: Ji~ykmwox,|a9Ovaiymmzmv,+<+86=
+CharKey: XO; BinKey: 0101100001001111;                HexKey: 584f; Text: Jh~xklwnx-|`9Nv`ixmlzlv-+=+96<
+CharKey: XP; BinKey: 0101100001010000;                HexKey: 5850; Text: Jw~gkswqx2|9Qvigmszsv2+"+&6#
+CharKey: XQ; BinKey: 0101100001010001;                HexKey: 5851; Text: Jv~fkrwpx3|~9Pv~ifmrzrv3+#+'6"
+CharKey: XR; BinKey: 0101100001010010;                HexKey: 5852; Text: Ju~ekqwsx0|}9Sv}iemqzqv0+ +$6!
+CharKey: XS; BinKey: 0101100001010011;                HexKey: 5853; Text: Jt~dkpwrx1||9Rv|idmpzpv1+!+%6 
+CharKey: XT; BinKey: 0101100001010100;                HexKey: 5854; Text: Js~ckwwux6|{9Uv{icmwzwv6+&+"6'
+CharKey: XU; BinKey: 0101100001010101;                HexKey: 5855; Text: Jr~bkvwtx7|z9Tvzibmvzvv7+'+#6&
+CharKey: XV; BinKey: 0101100001010110;                HexKey: 5856; Text: Jq~akuwwx4|y9Wvyiamuzuv4+$+ 6%
+CharKey: XW; BinKey: 0101100001010111;                HexKey: 5857; Text: Jp~`ktwvx5|x9Vvxi`mtztv5+%+!6$
+CharKey: XX; BinKey: 0101100001011000;                HexKey: 5858; Text: J~ok{wyx:|w9Yvwiom{z{v:+*+.6+
+CharKey: XY; BinKey: 0101100001011001;                HexKey: 5859; Text: J~~nkzwxx;|v9Xvvinmzzzv;+++/6*
+CharKey: XZ; BinKey: 0101100001011010;                HexKey: 585a; Text: J}~mkyw{x8|u9[vuimmyzyv8+(+,6)
+CharKey: X[; BinKey: 0101100001011011;                HexKey: 585b; Text: J|~lkxwzx9|t9Zvtilmxzxv9+)+-6(
+CharKey: X\; BinKey: 0101100001011100;                HexKey: 585c; Text: J{~kkw}x>|s9]vsikmzv>+.+*6/
+CharKey: X]; BinKey: 0101100001011101;                HexKey: 585d; Text: Jz~jk~w|x?|r9\vrijm~z~v?+/++6.
+CharKey: X^; BinKey: 0101100001011110;                HexKey: 585e; Text: Jy~ik}wx<|q9_vqiim}z}v<+,+(6-
+CharKey: X_; BinKey: 0101100001011111;                HexKey: 585f; Text: Jx~hk|w~x=|p9^vpihm|z|v=+-+)6,
+CharKey: Y@; BinKey: 0101100101000000;                HexKey: 5940; Text: Kgwjcvay"}o8Awohwlc{cw"*2*673
+CharKey: YA; BinKey: 0101100101000001;                HexKey: 5941; Text: Kfvjbv`y#}n8@wnhvlb{bw#*3*772
+CharKey: YB; BinKey: 0101100101000010;                HexKey: 5942; Text: Keujavcy }m8Cwmhula{aw *0*471
+CharKey: YC; BinKey: 0101100101000011;                HexKey: 5943; Text: Kdtj`vby!}l8Bwlhtl`{`w!*1*570
+CharKey: YD; BinKey: 0101100101000100;                HexKey: 5944; Text: Kcsjgvey&}k8Ewkhslg{gw&*6*277
+CharKey: YE; BinKey: 0101100101000101;                HexKey: 5945; Text: Kbrjfvdy'}j8Dwjhrlf{fw'*7*376
+CharKey: YF; BinKey: 0101100101000110;                HexKey: 5946; Text: Kaqjevgy$}i8Gwihqle{ew$*4*075
+CharKey: YG; BinKey: 0101100101000111;                HexKey: 5947; Text: K`pjdvfy%}h8Fwhhpld{dw%*5*174
+CharKey: YH; BinKey: 0101100101001000;                HexKey: 5948; Text: Kojkviy*}g8Iwghlk{kw**:*>7;
+CharKey: YI; BinKey: 0101100101001001;                HexKey: 5949; Text: Kn~jjvhy+}f8Hwfh~lj{jw+*;*?7:
+CharKey: YJ; BinKey: 0101100101001010;                HexKey: 594a; Text: Km}jivky(}e8Kweh}li{iw(*8*<79
+CharKey: YK; BinKey: 0101100101001011;                HexKey: 594b; Text: Kl|jhvjy)}d8Jwdh|lh{hw)*9*=78
+CharKey: YL; BinKey: 0101100101001100;                HexKey: 594c; Text: Kk{jovmy.}c8Mwch{lo{ow.*>*:7?
+CharKey: YM; BinKey: 0101100101001101;                HexKey: 594d; Text: Kjzjnvly/}b8Lwbhzln{nw/*?*;7>
+CharKey: YN; BinKey: 0101100101001110;                HexKey: 594e; Text: Kiyjmvoy,}a8Owahylm{mw,*<*87=
+CharKey: YO; BinKey: 0101100101001111;                HexKey: 594f; Text: Khxjlvny-}`8Nw`hxll{lw-*=*97<
+CharKey: YP; BinKey: 0101100101010000;                HexKey: 5950; Text: Kwgjsvqy2}8Qwhgls{sw2*"*&7#
+CharKey: YQ; BinKey: 0101100101010001;                HexKey: 5951; Text: Kvfjrvpy3}~8Pw~hflr{rw3*#*'7"
+CharKey: YR; BinKey: 0101100101010010;                HexKey: 5952; Text: Kuejqvsy0}}8Sw}helq{qw0* *$7!
+CharKey: YS; BinKey: 0101100101010011;                HexKey: 5953; Text: Ktdjpvry1}|8Rw|hdlp{pw1*!*%7 
+CharKey: YT; BinKey: 0101100101010100;                HexKey: 5954; Text: Kscjwvuy6}{8Uw{hclw{ww6*&*"7'
+CharKey: YU; BinKey: 0101100101010101;                HexKey: 5955; Text: Krbjvvty7}z8Twzhblv{vw7*'*#7&
+CharKey: YV; BinKey: 0101100101010110;                HexKey: 5956; Text: Kqajuvwy4}y8Wwyhalu{uw4*$* 7%
+CharKey: YW; BinKey: 0101100101010111;                HexKey: 5957; Text: Kp`jtvvy5}x8Vwxh`lt{tw5*%*!7$
+CharKey: YX; BinKey: 0101100101011000;                HexKey: 5958; Text: Koj{vyy:}w8Ywwhol{{{w:***.7+
+CharKey: YY; BinKey: 0101100101011001;                HexKey: 5959; Text: K~njzvxy;}v8Xwvhnlz{zw;*+*/7*
+CharKey: YZ; BinKey: 0101100101011010;                HexKey: 595a; Text: K}mjyv{y8}u8[wuhmly{yw8*(*,7)
+CharKey: Y[; BinKey: 0101100101011011;                HexKey: 595b; Text: K|ljxvzy9}t8Zwthllx{xw9*)*-7(
+CharKey: Y\; BinKey: 0101100101011100;                HexKey: 595c; Text: K{kjv}y>}s8]wshkl{w>*.**7/
+CharKey: Y]; BinKey: 0101100101011101;                HexKey: 595d; Text: Kzjj~v|y?}r8\wrhjl~{~w?*/*+7.
+CharKey: Y^; BinKey: 0101100101011110;                HexKey: 595e; Text: Kyij}vy<}q8_wqhil}{}w<*,*(7-
+CharKey: Y_; BinKey: 0101100101011111;                HexKey: 595f; Text: Kxhj|v~y=}p8^wphhl|{|w=*-*)7,
+CharKey: Z@; BinKey: 0101101001000000;                HexKey: 5a40; Text: Hg|wicuaz"~o;Atokwocxct")2)643
+CharKey: ZA; BinKey: 0101101001000001;                HexKey: 5a41; Text: Hf|vibu`z#~n;@tnkvobxbt#)3)742
+CharKey: ZB; BinKey: 0101101001000010;                HexKey: 5a42; Text: He|uiaucz ~m;Ctmkuoaxat )0)441
+CharKey: ZC; BinKey: 0101101001000011;                HexKey: 5a43; Text: Hd|ti`ubz!~l;Btlkto`x`t!)1)540
+CharKey: ZD; BinKey: 0101101001000100;                HexKey: 5a44; Text: Hc|siguez&~k;Etkksogxgt&)6)247
+CharKey: ZE; BinKey: 0101101001000101;                HexKey: 5a45; Text: Hb|rifudz'~j;Dtjkrofxft')7)346
+CharKey: ZF; BinKey: 0101101001000110;                HexKey: 5a46; Text: Ha|qieugz$~i;Gtikqoexet$)4)045
+CharKey: ZG; BinKey: 0101101001000111;                HexKey: 5a47; Text: H`|pidufz%~h;Fthkpodxdt%)5)144
+CharKey: ZH; BinKey: 0101101001001000;                HexKey: 5a48; Text: Ho|ikuiz*~g;Itgkokxkt*):)>4;
+CharKey: ZI; BinKey: 0101101001001001;                HexKey: 5a49; Text: Hn|~ijuhz+~f;Htfk~ojxjt+);)?4:
+CharKey: ZJ; BinKey: 0101101001001010;                HexKey: 5a4a; Text: Hm|}iiukz(~e;Ktek}oixit()8)<49
+CharKey: ZK; BinKey: 0101101001001011;                HexKey: 5a4b; Text: Hl||ihujz)~d;Jtdk|ohxht))9)=48
+CharKey: ZL; BinKey: 0101101001001100;                HexKey: 5a4c; Text: Hk|{ioumz.~c;Mtck{ooxot.)>):4?
+CharKey: ZM; BinKey: 0101101001001101;                HexKey: 5a4d; Text: Hj|zinulz/~b;Ltbkzonxnt/)?);4>
+CharKey: ZN; BinKey: 0101101001001110;                HexKey: 5a4e; Text: Hi|yimuoz,~a;Otakyomxmt,)<)84=
+CharKey: ZO; BinKey: 0101101001001111;                HexKey: 5a4f; Text: Hh|xilunz-~`;Nt`kxolxlt-)=)94<
+CharKey: ZP; BinKey: 0101101001010000;                HexKey: 5a50; Text: Hw|gisuqz2~;Qtkgosxst2)")&4#
+CharKey: ZQ; BinKey: 0101101001010001;                HexKey: 5a51; Text: Hv|firupz3~~;Pt~kforxrt3)#)'4"
+CharKey: ZR; BinKey: 0101101001010010;                HexKey: 5a52; Text: Hu|eiqusz0~};St}keoqxqt0) )$4!
+CharKey: ZS; BinKey: 0101101001010011;                HexKey: 5a53; Text: Ht|dipurz1~|;Rt|kdopxpt1)!)%4 
+CharKey: ZT; BinKey: 0101101001010100;                HexKey: 5a54; Text: Hs|ciwuuz6~{;Ut{kcowxwt6)&)"4'
+CharKey: ZU; BinKey: 0101101001010101;                HexKey: 5a55; Text: Hr|bivutz7~z;Ttzkbovxvt7)')#4&
+CharKey: ZV; BinKey: 0101101001010110;                HexKey: 5a56; Text: Hq|aiuuwz4~y;Wtykaouxut4)$) 4%
+CharKey: ZW; BinKey: 0101101001010111;                HexKey: 5a57; Text: Hp|`ituvz5~x;Vtxk`otxtt5)%)!4$
+CharKey: ZX; BinKey: 0101101001011000;                HexKey: 5a58; Text: H|oi{uyz:~w;Ytwkoo{x{t:)*).4+
+CharKey: ZY; BinKey: 0101101001011001;                HexKey: 5a59; Text: H~|nizuxz;~v;Xtvknozxzt;)+)/4*
+CharKey: ZZ; BinKey: 0101101001011010;                HexKey: 5a5a; Text: H}|miyu{z8~u;[tukmoyxyt8)(),4)
+CharKey: Z[; BinKey: 0101101001011011;                HexKey: 5a5b; Text: H||lixuzz9~t;Zttkloxxxt9)))-4(
+CharKey: Z\; BinKey: 0101101001011100;                HexKey: 5a5c; Text: H{|kiu}z>~s;]tskkoxt>).)*4/
+CharKey: Z]; BinKey: 0101101001011101;                HexKey: 5a5d; Text: Hz|ji~u|z?~r;\trkjo~x~t?)/)+4.
+CharKey: Z^; BinKey: 0101101001011110;                HexKey: 5a5e; Text: Hy|ii}uz<~q;_tqkio}x}t<),)(4-
+CharKey: Z_; BinKey: 0101101001011111;                HexKey: 5a5f; Text: Hx|hi|u~z=~p;^tpkho|x|t=)-))4,
+CharKey: [@; BinKey: 0101101101000000;                HexKey: 5b40; Text: Ig}whcta{"o:Auojwncycu"(2(653
+CharKey: [A; BinKey: 0101101101000001;                HexKey: 5b41; Text: If}vhbt`{#n:@unjvnbybu#(3(752
+CharKey: [B; BinKey: 0101101101000010;                HexKey: 5b42; Text: Ie}uhatc{ m:Cumjunayau (0(451
+CharKey: [C; BinKey: 0101101101000011;                HexKey: 5b43; Text: Id}th`tb{!l:Buljtn`y`u!(1(550
+CharKey: [D; BinKey: 0101101101000100;                HexKey: 5b44; Text: Ic}shgte{&k:Eukjsngygu&(6(257
+CharKey: [E; BinKey: 0101101101000101;                HexKey: 5b45; Text: Ib}rhftd{'j:Dujjrnfyfu'(7(356
+CharKey: [F; BinKey: 0101101101000110;                HexKey: 5b46; Text: Ia}qhetg{$i:Guijqneyeu$(4(055
+CharKey: [G; BinKey: 0101101101000111;                HexKey: 5b47; Text: I`}phdtf{%h:Fuhjpndydu%(5(154
+CharKey: [H; BinKey: 0101101101001000;                HexKey: 5b48; Text: Io}hkti{*g:Iugjnkyku*(:(>5;
+CharKey: [I; BinKey: 0101101101001001;                HexKey: 5b49; Text: In}~hjth{+f:Hufj~njyju+(;(?5:
+CharKey: [J; BinKey: 0101101101001010;                HexKey: 5b4a; Text: Im}}hitk{(e:Kuej}niyiu((8(<59
+CharKey: [K; BinKey: 0101101101001011;                HexKey: 5b4b; Text: Il}|hhtj{)d:Judj|nhyhu)(9(=58
+CharKey: [L; BinKey: 0101101101001100;                HexKey: 5b4c; Text: Ik}{hotm{.c:Mucj{noyou.(>(:5?
+CharKey: [M; BinKey: 0101101101001101;                HexKey: 5b4d; Text: Ij}zhntl{/b:Lubjznnynu/(?(;5>
+CharKey: [N; BinKey: 0101101101001110;                HexKey: 5b4e; Text: Ii}yhmto{,a:Ouajynmymu,(<(85=
+CharKey: [O; BinKey: 0101101101001111;                HexKey: 5b4f; Text: Ih}xhltn{-`:Nu`jxnlylu-(=(95<
+CharKey: [P; BinKey: 0101101101010000;                HexKey: 5b50; Text: Iw}ghstq{2:Qujgnsysu2("(&5#
+CharKey: [Q; BinKey: 0101101101010001;                HexKey: 5b51; Text: Iv}fhrtp{3~:Pu~jfnryru3(#('5"
+CharKey: [R; BinKey: 0101101101010010;                HexKey: 5b52; Text: Iu}ehqts{0}:Su}jenqyqu0( ($5!
+CharKey: [S; BinKey: 0101101101010011;                HexKey: 5b53; Text: It}dhptr{1|:Ru|jdnpypu1(!(%5 
+CharKey: [T; BinKey: 0101101101010100;                HexKey: 5b54; Text: Is}chwtu{6{:Uu{jcnwywu6(&("5'
+CharKey: [U; BinKey: 0101101101010101;                HexKey: 5b55; Text: Ir}bhvtt{7z:Tuzjbnvyvu7('(#5&
+CharKey: [V; BinKey: 0101101101010110;                HexKey: 5b56; Text: Iq}ahutw{4y:Wuyjanuyuu4($( 5%
+CharKey: [W; BinKey: 0101101101010111;                HexKey: 5b57; Text: Ip}`httv{5x:Vuxj`ntytu5(%(!5$
+CharKey: [X; BinKey: 0101101101011000;                HexKey: 5b58; Text: I}oh{ty{:w:Yuwjon{y{u:(*(.5+
+CharKey: [Y; BinKey: 0101101101011001;                HexKey: 5b59; Text: I~}nhztx{;v:Xuvjnnzyzu;(+(/5*
+CharKey: [Z; BinKey: 0101101101011010;                HexKey: 5b5a; Text: I}}mhyt{{8u:[uujmnyyyu8(((,5)
+CharKey: [[; BinKey: 0101101101011011;                HexKey: 5b5b; Text: I|}lhxtz{9t:Zutjlnxyxu9()(-5(
+CharKey: [\; BinKey: 0101101101011100;                HexKey: 5b5c; Text: I{}kht}{>s:]usjknyu>(.(*5/
+CharKey: []; BinKey: 0101101101011101;                HexKey: 5b5d; Text: Iz}jh~t|{?r:\urjjn~y~u?(/(+5.
+CharKey: [^; BinKey: 0101101101011110;                HexKey: 5b5e; Text: Iy}ih}t{<q:_uqjin}y}u<(,((5-
+CharKey: [_; BinKey: 0101101101011111;                HexKey: 5b5f; Text: Ix}hh|t~{=p:^upjhn|y|u=(-()5,
+CharKey: \@; BinKey: 0101110001000000;                HexKey: 5c40; Text: Ngzwocsa|"xo=Aromwic~cr"/2/623
+CharKey: \A; BinKey: 0101110001000001;                HexKey: 5c41; Text: Nfzvobs`|#xn=@rnmvib~br#/3/722
+CharKey: \B; BinKey: 0101110001000010;                HexKey: 5c42; Text: Nezuoasc| xm=Crmmuia~ar /0/421
+CharKey: \C; BinKey: 0101110001000011;                HexKey: 5c43; Text: Ndzto`sb|!xl=Brlmti`~`r!/1/520
+CharKey: \D; BinKey: 0101110001000100;                HexKey: 5c44; Text: Nczsogse|&xk=Erkmsig~gr&/6/227
+CharKey: \E; BinKey: 0101110001000101;                HexKey: 5c45; Text: Nbzrofsd|'xj=Drjmrif~fr'/7/326
+CharKey: \F; BinKey: 0101110001000110;                HexKey: 5c46; Text: Nazqoesg|$xi=Grimqie~er$/4/025
+CharKey: \G; BinKey: 0101110001000111;                HexKey: 5c47; Text: N`zpodsf|%xh=Frhmpid~dr%/5/124
+CharKey: \H; BinKey: 0101110001001000;                HexKey: 5c48; Text: Nozoksi|*xg=Irgmik~kr*/:/>2;
+CharKey: \I; BinKey: 0101110001001001;                HexKey: 5c49; Text: Nnz~ojsh|+xf=Hrfm~ij~jr+/;/?2:
+CharKey: \J; BinKey: 0101110001001010;                HexKey: 5c4a; Text: Nmz}oisk|(xe=Krem}ii~ir(/8/<29
+CharKey: \K; BinKey: 0101110001001011;                HexKey: 5c4b; Text: Nlz|ohsj|)xd=Jrdm|ih~hr)/9/=28
+CharKey: \L; BinKey: 0101110001001100;                HexKey: 5c4c; Text: Nkz{oosm|.xc=Mrcm{io~or./>/:2?
+CharKey: \M; BinKey: 0101110001001101;                HexKey: 5c4d; Text: Njzzonsl|/xb=Lrbmzin~nr//?/;2>
+CharKey: \N; BinKey: 0101110001001110;                HexKey: 5c4e; Text: Nizyomso|,xa=Oramyim~mr,/</82=
+CharKey: \O; BinKey: 0101110001001111;                HexKey: 5c4f; Text: Nhzxolsn|-x`=Nr`mxil~lr-/=/92<
+CharKey: \P; BinKey: 0101110001010000;                HexKey: 5c50; Text: Nwzgossq|2x=Qrmgis~sr2/"/&2#
+CharKey: \Q; BinKey: 0101110001010001;                HexKey: 5c51; Text: Nvzforsp|3x~=Pr~mfir~rr3/#/'2"
+CharKey: \R; BinKey: 0101110001010010;                HexKey: 5c52; Text: Nuzeoqss|0x}=Sr}meiq~qr0/ /$2!
+CharKey: \S; BinKey: 0101110001010011;                HexKey: 5c53; Text: Ntzdopsr|1x|=Rr|mdip~pr1/!/%2 
+CharKey: \T; BinKey: 0101110001010100;                HexKey: 5c54; Text: Nszcowsu|6x{=Ur{mciw~wr6/&/"2'
+CharKey: \U; BinKey: 0101110001010101;                HexKey: 5c55; Text: Nrzbovst|7xz=Trzmbiv~vr7/'/#2&
+CharKey: \V; BinKey: 0101110001010110;                HexKey: 5c56; Text: Nqzaousw|4xy=Wrymaiu~ur4/$/ 2%
+CharKey: \W; BinKey: 0101110001010111;                HexKey: 5c57; Text: Npz`otsv|5xx=Vrxm`it~tr5/%/!2$
+CharKey: \X; BinKey: 0101110001011000;                HexKey: 5c58; Text: Nzoo{sy|:xw=Yrwmoi{~{r:/*/.2+
+CharKey: \Y; BinKey: 0101110001011001;                HexKey: 5c59; Text: N~znozsx|;xv=Xrvmniz~zr;/+//2*
+CharKey: \Z; BinKey: 0101110001011010;                HexKey: 5c5a; Text: N}zmoys{|8xu=[rummiy~yr8/(/,2)
+CharKey: \[; BinKey: 0101110001011011;                HexKey: 5c5b; Text: N|zloxsz|9xt=Zrtmlix~xr9/)/-2(
+CharKey: \\; BinKey: 0101110001011100;                HexKey: 5c5c; Text: N{zkos}|>xs=]rsmki~r>/./*2/
+CharKey: \]; BinKey: 0101110001011101;                HexKey: 5c5d; Text: Nzzjo~s||?xr=\rrmji~~~r?///+2.
+CharKey: \^; BinKey: 0101110001011110;                HexKey: 5c5e; Text: Nyzio}s|<xq=_rqmii}~}r</,/(2-
+CharKey: \_; BinKey: 0101110001011111;                HexKey: 5c5f; Text: Nxzho|s~|=xp=^rpmhi|~|r=/-/)2,
+CharKey: ]@; BinKey: 0101110101000000;                HexKey: 5d40; Text: Og{wncra}"yo<Asolwhccs".2.633
+CharKey: ]A; BinKey: 0101110101000001;                HexKey: 5d41; Text: Of{vnbr`}#yn<@snlvhbbs#.3.732
+CharKey: ]B; BinKey: 0101110101000010;                HexKey: 5d42; Text: Oe{unarc} ym<Csmluhaas .0.431
+CharKey: ]C; BinKey: 0101110101000011;                HexKey: 5d43; Text: Od{tn`rb}!yl<Bsllth``s!.1.530
+CharKey: ]D; BinKey: 0101110101000100;                HexKey: 5d44; Text: Oc{sngre}&yk<Esklshggs&.6.237
+CharKey: ]E; BinKey: 0101110101000101;                HexKey: 5d45; Text: Ob{rnfrd}'yj<Dsjlrhffs'.7.336
+CharKey: ]F; BinKey: 0101110101000110;                HexKey: 5d46; Text: Oa{qnerg}$yi<Gsilqhees$.4.035
+CharKey: ]G; BinKey: 0101110101000111;                HexKey: 5d47; Text: O`{pndrf}%yh<Fshlphdds%.5.134
+CharKey: ]H; BinKey: 0101110101001000;                HexKey: 5d48; Text: Oo{nkri}*yg<Isglhkks*.:.>3;
+CharKey: ]I; BinKey: 0101110101001001;                HexKey: 5d49; Text: On{~njrh}+yf<Hsfl~hjjs+.;.?3:
+CharKey: ]J; BinKey: 0101110101001010;                HexKey: 5d4a; Text: Om{}nirk}(ye<Ksel}hiis(.8.<39
+CharKey: ]K; BinKey: 0101110101001011;                HexKey: 5d4b; Text: Ol{|nhrj})yd<Jsdl|hhhs).9.=38
+CharKey: ]L; BinKey: 0101110101001100;                HexKey: 5d4c; Text: Ok{{norm}.yc<Mscl{hoos..>.:3?
+CharKey: ]M; BinKey: 0101110101001101;                HexKey: 5d4d; Text: Oj{znnrl}/yb<Lsblzhnns/.?.;3>
+CharKey: ]N; BinKey: 0101110101001110;                HexKey: 5d4e; Text: Oi{ynmro},ya<Osalyhmms,.<.83=
+CharKey: ]O; BinKey: 0101110101001111;                HexKey: 5d4f; Text: Oh{xnlrn}-y`<Ns`lxhlls-.=.93<
+CharKey: ]P; BinKey: 0101110101010000;                HexKey: 5d50; Text: Ow{gnsrq}2y<Qslghsss2.".&3#
+CharKey: ]Q; BinKey: 0101110101010001;                HexKey: 5d51; Text: Ov{fnrrp}3y~<Ps~lfhrrs3.#.'3"
+CharKey: ]R; BinKey: 0101110101010010;                HexKey: 5d52; Text: Ou{enqrs}0y}<Ss}lehqqs0. .$3!
+CharKey: ]S; BinKey: 0101110101010011;                HexKey: 5d53; Text: Ot{dnprr}1y|<Rs|ldhpps1.!.%3 
+CharKey: ]T; BinKey: 0101110101010100;                HexKey: 5d54; Text: Os{cnwru}6y{<Us{lchwws6.&."3'
+CharKey: ]U; BinKey: 0101110101010101;                HexKey: 5d55; Text: Or{bnvrt}7yz<Tszlbhvvs7.'.#3&
+CharKey: ]V; BinKey: 0101110101010110;                HexKey: 5d56; Text: Oq{anurw}4yy<Wsylahuus4.$. 3%
+CharKey: ]W; BinKey: 0101110101010111;                HexKey: 5d57; Text: Op{`ntrv}5yx<Vsxl`htts5.%.!3$
+CharKey: ]X; BinKey: 0101110101011000;                HexKey: 5d58; Text: O{on{ry}:yw<Yswloh{{s:.*..3+
+CharKey: ]Y; BinKey: 0101110101011001;                HexKey: 5d59; Text: O~{nnzrx};yv<Xsvlnhzzs;.+./3*
+CharKey: ]Z; BinKey: 0101110101011010;                HexKey: 5d5a; Text: O}{mnyr{}8yu<[sulmhyys8.(.,3)
+CharKey: ][; BinKey: 0101110101011011;                HexKey: 5d5b; Text: O|{lnxrz}9yt<Zstllhxxs9.).-3(
+CharKey: ]\; BinKey: 0101110101011100;                HexKey: 5d5c; Text: O{{knr}}>ys<]sslkhs>...*3/
+CharKey: ]]; BinKey: 0101110101011101;                HexKey: 5d5d; Text: Oz{jn~r|}?yr<\srljh~~s?./.+3.
+CharKey: ]^; BinKey: 0101110101011110;                HexKey: 5d5e; Text: Oy{in}r}<yq<_sqlih}}s<.,.(3-
+CharKey: ]_; BinKey: 0101110101011111;                HexKey: 5d5f; Text: Ox{hn|r~}=yp<^splhh||s=.-.)3,
+CharKey: ^@; BinKey: 0101111001000000;                HexKey: 5e40; Text: Lgxwmcqa~"zo?Apoowkc|cp"-2-603
+CharKey: ^A; BinKey: 0101111001000001;                HexKey: 5e41; Text: Lfxvmbq`~#zn?@pnovkb|bp#-3-702
+CharKey: ^B; BinKey: 0101111001000010;                HexKey: 5e42; Text: Lexumaqc~ zm?Cpmouka|ap -0-401
+CharKey: ^C; BinKey: 0101111001000011;                HexKey: 5e43; Text: Ldxtm`qb~!zl?Bplotk`|`p!-1-500
+CharKey: ^D; BinKey: 0101111001000100;                HexKey: 5e44; Text: Lcxsmgqe~&zk?Epkoskg|gp&-6-207
+CharKey: ^E; BinKey: 0101111001000101;                HexKey: 5e45; Text: Lbxrmfqd~'zj?Dpjorkf|fp'-7-306
+CharKey: ^F; BinKey: 0101111001000110;                HexKey: 5e46; Text: Laxqmeqg~$zi?Gpioqke|ep$-4-005
+CharKey: ^G; BinKey: 0101111001000111;                HexKey: 5e47; Text: L`xpmdqf~%zh?Fphopkd|dp%-5-104
+CharKey: ^H; BinKey: 0101111001001000;                HexKey: 5e48; Text: Loxmkqi~*zg?Ipgokk|kp*-:->0;
+CharKey: ^I; BinKey: 0101111001001001;                HexKey: 5e49; Text: Lnx~mjqh~+zf?Hpfo~kj|jp+-;-?0:
+CharKey: ^J; BinKey: 0101111001001010;                HexKey: 5e4a; Text: Lmx}miqk~(ze?Kpeo}ki|ip(-8-<09
+CharKey: ^K; BinKey: 0101111001001011;                HexKey: 5e4b; Text: Llx|mhqj~)zd?Jpdo|kh|hp)-9-=08
+CharKey: ^L; BinKey: 0101111001001100;                HexKey: 5e4c; Text: Lkx{moqm~.zc?Mpco{ko|op.->-:0?
+CharKey: ^M; BinKey: 0101111001001101;                HexKey: 5e4d; Text: Ljxzmnql~/zb?Lpbozkn|np/-?-;0>
+CharKey: ^N; BinKey: 0101111001001110;                HexKey: 5e4e; Text: Lixymmqo~,za?Opaoykm|mp,-<-80=
+CharKey: ^O; BinKey: 0101111001001111;                HexKey: 5e4f; Text: Lhxxmlqn~-z`?Np`oxkl|lp--=-90<
+CharKey: ^P; BinKey: 0101111001010000;                HexKey: 5e50; Text: Lwxgmsqq~2z?Qpogks|sp2-"-&0#
+CharKey: ^Q; BinKey: 0101111001010001;                HexKey: 5e51; Text: Lvxfmrqp~3z~?Pp~ofkr|rp3-#-'0"
+CharKey: ^R; BinKey: 0101111001010010;                HexKey: 5e52; Text: Luxemqqs~0z}?Sp}oekq|qp0- -$0!
+CharKey: ^S; BinKey: 0101111001010011;                HexKey: 5e53; Text: Ltxdmpqr~1z|?Rp|odkp|pp1-!-%0 
+CharKey: ^T; BinKey: 0101111001010100;                HexKey: 5e54; Text: Lsxcmwqu~6z{?Up{ockw|wp6-&-"0'
+CharKey: ^U; BinKey: 0101111001010101;                HexKey: 5e55; Text: Lrxbmvqt~7zz?Tpzobkv|vp7-'-#0&
+CharKey: ^V; BinKey: 0101111001010110;                HexKey: 5e56; Text: Lqxamuqw~4zy?Wpyoaku|up4-$- 0%
+CharKey: ^W; BinKey: 0101111001010111;                HexKey: 5e57; Text: Lpx`mtqv~5zx?Vpxo`kt|tp5-%-!0$
+CharKey: ^X; BinKey: 0101111001011000;                HexKey: 5e58; Text: Lxom{qy~:zw?Ypwook{|{p:-*-.0+
+CharKey: ^Y; BinKey: 0101111001011001;                HexKey: 5e59; Text: L~xnmzqx~;zv?Xpvonkz|zp;-+-/0*
+CharKey: ^Z; BinKey: 0101111001011010;                HexKey: 5e5a; Text: L}xmmyq{~8zu?[puomky|yp8-(-,0)
+CharKey: ^[; BinKey: 0101111001011011;                HexKey: 5e5b; Text: L|xlmxqz~9zt?Zptolkx|xp9-)--0(
+CharKey: ^\; BinKey: 0101111001011100;                HexKey: 5e5c; Text: L{xkmq}~>zs?]psokk|p>-.-*0/
+CharKey: ^]; BinKey: 0101111001011101;                HexKey: 5e5d; Text: Lzxjm~q|~?zr?\projk~|~p?-/-+0.
+CharKey: ^^; BinKey: 0101111001011110;                HexKey: 5e5e; Text: Lyxim}q~<zq?_pqoik}|}p<-,-(0-
+CharKey: ^_; BinKey: 0101111001011111;                HexKey: 5e5f; Text: Lxxhm|q~~=zp?^ppohk|||p=---)0,
+CharKey: _@; BinKey: 0101111101000000;                HexKey: 5f40; Text: Mgywlcpa"{o>Aqonwjc}cq",2,613
+CharKey: _A; BinKey: 0101111101000001;                HexKey: 5f41; Text: Mfyvlbp`#{n>@qnnvjb}bq#,3,712
+CharKey: _B; BinKey: 0101111101000010;                HexKey: 5f42; Text: Meyulapc {m>Cqmnuja}aq ,0,411
+CharKey: _C; BinKey: 0101111101000011;                HexKey: 5f43; Text: Mdytl`pb!{l>Bqlntj`}`q!,1,510
+CharKey: _D; BinKey: 0101111101000100;                HexKey: 5f44; Text: Mcyslgpe&{k>Eqknsjg}gq&,6,217
+CharKey: _E; BinKey: 0101111101000101;                HexKey: 5f45; Text: Mbyrlfpd'{j>Dqjnrjf}fq',7,316
+CharKey: _F; BinKey: 0101111101000110;                HexKey: 5f46; Text: Mayqlepg${i>Gqinqje}eq$,4,015
+CharKey: _G; BinKey: 0101111101000111;                HexKey: 5f47; Text: M`ypldpf%{h>Fqhnpjd}dq%,5,114
+CharKey: _H; BinKey: 0101111101001000;                HexKey: 5f48; Text: Moylkpi*{g>Iqgnjk}kq*,:,>1;
+CharKey: _I; BinKey: 0101111101001001;                HexKey: 5f49; Text: Mny~ljph+{f>Hqfn~jj}jq+,;,?1:
+CharKey: _J; BinKey: 0101111101001010;                HexKey: 5f4a; Text: Mmy}lipk({e>Kqen}ji}iq(,8,<19
+CharKey: _K; BinKey: 0101111101001011;                HexKey: 5f4b; Text: Mly|lhpj){d>Jqdn|jh}hq),9,=18
+CharKey: _L; BinKey: 0101111101001100;                HexKey: 5f4c; Text: Mky{lopm.{c>Mqcn{jo}oq.,>,:1?
+CharKey: _M; BinKey: 0101111101001101;                HexKey: 5f4d; Text: Mjyzlnpl/{b>Lqbnzjn}nq/,?,;1>
+CharKey: _N; BinKey: 0101111101001110;                HexKey: 5f4e; Text: Miyylmpo,{a>Oqanyjm}mq,,<,81=
+CharKey: _O; BinKey: 0101111101001111;                HexKey: 5f4f; Text: Mhyxllpn-{`>Nq`nxjl}lq-,=,91<
+CharKey: _P; BinKey: 0101111101010000;                HexKey: 5f50; Text: Mwyglspq2{>Qqngjs}sq2,",&1#
+CharKey: _Q; BinKey: 0101111101010001;                HexKey: 5f51; Text: Mvyflrpp3{~>Pq~nfjr}rq3,#,'1"
+CharKey: _R; BinKey: 0101111101010010;                HexKey: 5f52; Text: Muyelqps0{}>Sq}nejq}qq0, ,$1!
+CharKey: _S; BinKey: 0101111101010011;                HexKey: 5f53; Text: Mtydlppr1{|>Rq|ndjp}pq1,!,%1 
+CharKey: _T; BinKey: 0101111101010100;                HexKey: 5f54; Text: Msyclwpu6{{>Uq{ncjw}wq6,&,"1'
+CharKey: _U; BinKey: 0101111101010101;                HexKey: 5f55; Text: Mryblvpt7{z>Tqznbjv}vq7,',#1&
+CharKey: _V; BinKey: 0101111101010110;                HexKey: 5f56; Text: Mqyalupw4{y>Wqynaju}uq4,$, 1%
+CharKey: _W; BinKey: 0101111101010111;                HexKey: 5f57; Text: Mpy`ltpv5{x>Vqxn`jt}tq5,%,!1$
+CharKey: _X; BinKey: 0101111101011000;                HexKey: 5f58; Text: Myol{py:{w>Yqwnoj{}{q:,*,.1+
+CharKey: _Y; BinKey: 0101111101011001;                HexKey: 5f59; Text: M~ynlzpx;{v>Xqvnnjz}zq;,+,/1*
+CharKey: _Z; BinKey: 0101111101011010;                HexKey: 5f5a; Text: M}ymlyp{8{u>[qunmjy}yq8,(,,1)
+CharKey: _[; BinKey: 0101111101011011;                HexKey: 5f5b; Text: M|yllxpz9{t>Zqtnljx}xq9,),-1(
+CharKey: _\; BinKey: 0101111101011100;                HexKey: 5f5c; Text: M{yklp}>{s>]qsnkj}q>,.,*1/
+CharKey: _]; BinKey: 0101111101011101;                HexKey: 5f5d; Text: Mzyjl~p|?{r>\qrnjj~}~q?,/,+1.
+CharKey: _^; BinKey: 0101111101011110;                HexKey: 5f5e; Text: Myyil}p<{q>_qqnij}}}q<,,,(1-
+CharKey: __; BinKey: 0101111101011111;                HexKey: 5f5f; Text: Mxyhl|p~={p>^qpnhj|}|q=,-,)1,
